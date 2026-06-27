@@ -11,6 +11,7 @@ comment.cut
 
 # Local render scratch
 tmp/
+output/pdf/*_page-*.png
 
 # macOS
 .DS_Store
