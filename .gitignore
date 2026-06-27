@@ -1,0 +1,16 @@
+# LaTeX build outputs
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+comment.cut
+
+# Local render scratch
+tmp/
+
+# macOS
+.DS_Store
