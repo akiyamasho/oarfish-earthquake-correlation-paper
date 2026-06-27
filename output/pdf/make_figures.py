@@ -9,6 +9,9 @@ import numpy as np
 OUT = Path(__file__).resolve().parent / "figures"
 OUT.mkdir(exist_ok=True)
 
+USGS_DAYS_1980_TO_2026 = 16979.999988425927
+USGS_COUNTS_1980_TO_2026 = {"M6+": 6768, "M7+": 659, "M8+": 38}
+
 BLUE = "#1f77b4"
 ORANGE = "#ff7f0e"
 GREEN = "#2ca02c"
@@ -133,8 +136,10 @@ def null_model_schematic():
 
 
 def baseline_heatmap():
-    days = 365.25 * 32
-    counts = np.array([4360 + 450 + 33, 450 + 33, 33], dtype=float)
+    days = USGS_DAYS_1980_TO_2026
+    counts = np.array([USGS_COUNTS_1980_TO_2026["M6+"],
+                       USGS_COUNTS_1980_TO_2026["M7+"],
+                       USGS_COUNTS_1980_TO_2026["M8+"]], dtype=float)
     windows = np.array([1, 7, 90, 180, 365], dtype=float)
     probs = np.zeros((len(counts), len(windows)))
     for i, count in enumerate(counts):
@@ -190,8 +195,8 @@ def bias_dag():
 
 
 def baseline_coincidence():
-    days = 365.25 * 32
-    counts = {"M6+": 4360 + 450 + 33, "M7+": 450 + 33, "M8+": 33}
+    days = USGS_DAYS_1980_TO_2026
+    counts = USGS_COUNTS_1980_TO_2026
     windows = np.array([1, 7, 90, 180, 365], dtype=float)
     fig, ax = plt.subplots(figsize=(7.0, 3.7))
     for label, count in counts.items():

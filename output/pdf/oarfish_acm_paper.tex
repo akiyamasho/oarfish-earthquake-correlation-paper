@@ -27,7 +27,7 @@
 \begin{document}
 
 \begin{abstract}
-Public accounts often claim that oarfish appearances warn of major earthquakes, but the statistical target of this claim is often ambiguous. This paper separates local biological-precursor hypotheses from the broader public claim that an oarfish sighting anywhere may be followed by a major earthquake somewhere else. For the global claim, the primary diagnostic is sighting-to-earthquake matching with no spatial radius over a 0--180 day prospective window. Shorter 0--1, 0--7, and 0--90 day windows are sensitivity checks, while local 100, 500, and 1000 km windows are secondary mechanism checks. The strongest directly relevant peer-reviewed evidence remains Orihara et al.'s multi-taxon Japanese deep-sea-fish study, whose historical local criterion was 30 days and 100 km; that criterion is not the global endpoint studied here. Under a homogeneous Poisson approximation to USGS 1990--2021 counts, a random date has probability about 1.000 of being followed within 180 days by at least one global $M \geq 6$ earthquake, 0.999 for $M \geq 7$, and 0.398 for $M \geq 8$. These base rates show that broad global temporal matches are expected under chance. A valid test requires audited Regalecidae sighting events, reporting-effort adjustment, predeclared endpoints, and permutation null models. Current public evidence does not support treating oarfish sightings as earthquake forecasts.
+Public accounts often claim that oarfish appearances warn of major earthquakes, but the statistical target of this claim is often ambiguous. This paper separates local biological-precursor hypotheses from the broader public claim that an oarfish sighting anywhere may be followed by a major earthquake somewhere else. For the global claim, the primary diagnostic is sighting-to-earthquake matching with no spatial radius over a 0--180 day prospective window. Shorter 0--1, 0--7, and 0--90 day windows are sensitivity checks, while local 100, 500, and 1000 km windows are secondary mechanism checks. The strongest directly relevant peer-reviewed evidence remains Orihara et al.'s multi-taxon Japanese deep-sea-fish study, whose historical local criterion was 30 days and 100 km; that criterion is not the global endpoint studied here. Under a homogeneous Poisson approximation to USGS FDSN counts from 1980-01-01 through 2026-06-27, a random date has probability about 1.000 of being followed within 180 days by at least one global $M \geq 6$ earthquake, 0.999 for $M \geq 7$, and 0.332 for $M \geq 8$. These base rates show that broad global temporal matches are expected under chance. A valid test requires audited Regalecidae sighting events, reporting-effort adjustment, predeclared endpoints, and permutation null models. Current public evidence does not support treating oarfish sightings as earthquake forecasts.
 \end{abstract}
 
 \keywords{oarfish, Regalecidae, earthquake precursor, global temporal matching, reporting bias, permutation test, rare events}
@@ -46,7 +46,7 @@ This paper is an evidence synthesis and reproducible test design, not a complete
 The strongest directly relevant empirical test is Orihara et al.'s study of Japanese folklore concerning deep-sea fish appearances and earthquakes \cite{orihara2019deepsea}. It is directly relevant but not oarfish-specific: the dataset contains 336 appearances of eight deep-sea fish taxa around Japan from November 1928 through March 2011. Under a future-looking criterion of an earthquake with $M \geq 6$ occurring within 30 days and 100 km after an appearance, only one case qualified. The study also reported fish-appearance seasonality that did not match earthquake seasonality. Thus the evidence does not support a short-term local precursor claim in that setting; it should not be overread as a Regalecidae-specific global effect estimate.
 
 \subsection{Why the global claim needs a different baseline}
-The supplied synthesis reports USGS public annual counts for 1990--2021: 4,360 earthquakes of $M6.0$--$6.9$, 450 of $M7.0$--$7.9$, and 33 of $M8.0+$ \cite{usgs_stats}. Since $M6+$ events occur globally every few days on average, global temporal coincidence is expected even without a biological signal. The global analysis therefore has a different purpose from local 100 km tests: it measures whether the public global-warning interpretation has any discriminating power after accounting for earthquake base rates.
+For the full target period, a USGS FDSN query from 1980-01-01 through 2026-06-27 returns 6,109 earthquakes of $M6.0$--$6.9$, 621 of $M7.0$--$7.9$, and 38 of $M8.0+$ \cite{usgs_1980_2026_query}. Since $M6+$ events occur globally every few days on average, global temporal coincidence is expected even without a biological signal. The global analysis therefore has a different purpose from local 100 km tests: it measures whether the public global-warning interpretation has any discriminating power after accounting for earthquake base rates.
 
 The current motivating example is a long-window global narrative rather than a local-nearfield one. AccuWeather, a news source that would fall in Tier 3 unless corroborated by institutional records, reported that two oarfish washed ashore and were rescued near Cabo San Lucas, Mexico, on February 20, 2026 \cite{accuweather_oarfish_2026}. A USGS FDSN query for June 1--27, 2026 returns numerous $M \geq 6$ events, including $M7.8$ 24 km SW of Kablalan, Philippines on June 7, $M6.9$ 30 km ENE of Kuji, Japan on June 24, and $M7.5$ 28 km SE plus $M7.2$ 23 km SE of Yumare, Venezuela on June 24 \cite{usgs_june2026_query}. These are real matches under a global 0--180 day rule, but the base-rate calculation below shows why such matches are expected for random dates as well.
 
@@ -129,24 +129,24 @@ p = \frac{1 + |\{b: H^{(b)} \geq H^{obs}\}|}{B + 1}.
 \end{figure}
 
 \section{Baseline Calculations}
-The public-summary USGS interval does not match the full 1980--2026 target period, so the following numbers are diagnostics rather than final empirical calendar coverage. Under a homogeneous Poisson approximation, the probability that a random date is followed within $w$ days by at least one global earthquake is
+The following base-rate calculations use the USGS FDSN $M \geq 6$ event query for 1980-01-01 through 2026-06-27, matching the study period used in this manuscript \cite{usgs_1980_2026_query}. Under a homogeneous Poisson approximation, the probability that a random date is followed within $w$ days by at least one global earthquake is
 \begin{equation}
 P(\geq 1) = 1 - \exp(-\lambda w),
 \end{equation}
 and the retrospective symmetric analogue uses $2w$. Because earthquakes cluster through aftershock sequences, a completed study should recompute these probabilities empirically from raw and declustered catalogs.
 
 \begin{table}[t]
-\caption{Approximate global no-distance prospective coincidence probabilities from USGS 1990--2021 counts.}
+\caption{Approximate global no-distance prospective coincidence probabilities from USGS FDSN counts, 1980-01-01 through 2026-06-27.}
 \label{tab:baseline}
 \centering
 \begin{tabular}{lccc}
 \toprule
 Window & $M6+$ & $M7+$ & $M8+$ \\
 \midrule
-0--1 day & 0.339 & 0.040 & 0.003 \\
-0--7 days & 0.945 & 0.251 & 0.020 \\
-0--90 days & 1.000 & 0.976 & 0.224 \\
-0--180 days & 1.000 & 0.999 & 0.398 \\
+0--1 day & 0.329 & 0.038 & 0.002 \\
+0--7 days & 0.939 & 0.238 & 0.016 \\
+0--90 days & 1.000 & 0.970 & 0.182 \\
+0--180 days & 1.000 & 0.999 & 0.332 \\
 \bottomrule
 \end{tabular}
 \end{table}

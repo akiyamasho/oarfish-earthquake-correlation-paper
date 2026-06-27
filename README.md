@@ -14,7 +14,7 @@ This repository contains an ACM-style research manuscript, rendered PDF, figures
 
 Public accounts often claim that oarfish appearances warn of major earthquakes, but the statistical target of this claim is often ambiguous. This paper separates local biological-precursor hypotheses from the broader public claim that an oarfish sighting anywhere may be followed by a major earthquake somewhere else. For the global claim, the primary diagnostic is sighting-to-earthquake matching with no spatial radius over a `0--180` day prospective window. Shorter `0--1`, `0--7`, and `0--90` day windows are sensitivity checks, while local `100`, `500`, and `1000` km windows are secondary mechanism checks.
 
-The key statistical issue is base-rate saturation. Under a homogeneous Poisson approximation to USGS 1990--2021 earthquake counts, a random date has probability about `1.000` of being followed within 180 days by at least one global `M >= 6` earthquake, `0.999` for `M >= 7`, and `0.398` for `M >= 8`. These base rates mean that broad global temporal matches are expected under chance. Current public evidence does not support treating oarfish sightings as earthquake forecasts.
+The key statistical issue is base-rate saturation. Under a homogeneous Poisson approximation to USGS FDSN earthquake counts from 1980-01-01 through 2026-06-27, a random date has probability about `1.000` of being followed within 180 days by at least one global `M >= 6` earthquake, `0.999` for `M >= 7`, and `0.332` for `M >= 8`. These base rates mean that broad global temporal matches are expected under chance. Current public evidence does not support treating oarfish sightings as earthquake forecasts.
 
 ## Repository Contents
 
@@ -147,11 +147,11 @@ p = (1 + number of null replicates with H_b >= H_observed) / (B + 1)
 
 ## Baseline Calculations
 
-The manuscript uses USGS public annual counts for 1990--2021 as a diagnostic approximation:
+The manuscript uses an explicit USGS FDSN event query for 1980-01-01 through 2026-06-27, matching the stated study period:
 
-- `M6.0--6.9`: 4,360 earthquakes
-- `M7.0--7.9`: 450 earthquakes
-- `M8.0+`: 33 earthquakes
+- `M6.0--6.9`: 6,109 earthquakes
+- `M7.0--7.9`: 621 earthquakes
+- `M8.0+`: 38 earthquakes
 
 Under a homogeneous Poisson approximation, the probability that a random date is followed within `w` days by at least one global earthquake is:
 
@@ -161,10 +161,10 @@ P(at least one earthquake) = 1 - exp(-lambda * w)
 
 | Window | `M6+` | `M7+` | `M8+` |
 | --- | ---: | ---: | ---: |
-| `0--1` day | 0.339 | 0.040 | 0.003 |
-| `0--7` days | 0.945 | 0.251 | 0.020 |
-| `0--90` days | 1.000 | 0.976 | 0.224 |
-| `0--180` days | 1.000 | 0.999 | 0.398 |
+| `0--1` day | 0.329 | 0.038 | 0.002 |
+| `0--7` days | 0.939 | 0.238 | 0.016 |
+| `0--90` days | 1.000 | 0.970 | 0.182 |
+| `0--180` days | 1.000 | 0.999 | 0.332 |
 
 These are diagnostic base-rate calculations, not inferential p-values.
 
