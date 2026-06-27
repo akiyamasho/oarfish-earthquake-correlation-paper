@@ -1,0 +1,462 @@
+gbif_id,event_date,lat,lon,country,locality,basis,scientific_name,dataset_name,references,occurrence_id,has_media
+6130420431,2026-01-10,28.029986,-16.707512,Spain,"Santa Cruz de Tenerife, ES-CN, ES",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/334246615,https://www.inaturalist.org/observations/334246615,1
+6133364113,2026-01-28,23.063488,-109.659421,Mexico,"23403 B.C.S., México",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/336520332,https://www.inaturalist.org/observations/336520332,1
+6179264489,2026-01-29,26.005301,-111.336423,Mexico,"2M47+58, 23880 Loreto, B.C.S., México",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/339647223,https://www.inaturalist.org/observations/339647223,1
+6147304894,2026-02-07,25.538767,-111.114316,Mexico,"Bahía Agua Verde, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/337714418,https://www.inaturalist.org/observations/337714418,1
+6147697763,2026-02-07,25.631225,-111.065758,Mexico,MX,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/337887766,https://www.inaturalist.org/observations/337887766,1
+6163103721,2026-02-22,22.882263,-109.916077,Mexico,"Mz 42, Cabo San Lucas, B.C.S., MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/339946553,https://www.inaturalist.org/observations/339946553,1
+6236201343,2026-03-14,26.110799,-111.280089,Mexico,"Loreto Municipality, BCS, Mexico",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/350808810,https://www.inaturalist.org/observations/350808810,1
+6195943622,2026-04-07,24.062995,-109.833417,Mexico,"Bahía la Ventana, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/349577772,https://www.inaturalist.org/observations/349577772,1
+5840187669,2025-01-20,22.46616,120.443988,Chinese Taipei,928台灣屏東縣東港鎮東港,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/318137849,https://www.inaturalist.org/observations/318137849,1
+6179491141,2025-01-29,20.752737,-105.45617,Mexico,"Bahía de Banderas, Nay., MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/260028186,https://www.inaturalist.org/observations/260028186,1
+5069767282,2025-02-07,42.207798,11.710186,Italy,Italia,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/261099820,https://www.inaturalist.org/observations/261099820,1
+5104709771,2025-03-23,25.89717,-111.338372,Mexico,"Gulf of California, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/266709476,https://www.inaturalist.org/observations/266709476,1
+5154956241,2025-05-10,24.438473,-110.372265,Mexico,"La Paz, B.C.S., México",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/280432128,https://www.inaturalist.org/observations/280432128,1
+6178308966,2025-05-21,24.272499,-110.325585,Mexico,"23208 B.C.S., México",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/290265688,https://www.inaturalist.org/observations/290265688,1
+5187783514,2025-06-05,-43.827598,172.711394,New Zealand,"South Island / Te Waipounamu, Little River, Canterbury, NZ",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/287014330,https://www.inaturalist.org/observations/287014330,1
+6129972429,2025-08-27,24.285192,-110.329575,Mexico,"Bahía de la Paz, B.C.S., MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/334129296,https://www.inaturalist.org/observations/334129296,1
+5903895210,2025-11-21,-39.835591,147.83564,Australia,"Killiecrankie, TAS, AU",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/327489871,https://www.inaturalist.org/observations/327489871,1
+5908986364,2025-11-29,24.832082,-110.697087,Mexico,"La Paz, MX-BS, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/328791479,https://www.inaturalist.org/observations/328791479,1
+5932434330,2025-11-29,24.81702,-110.665695,Mexico,"23143 BCS, Mexico",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/330493417,https://www.inaturalist.org/observations/330493417,1
+5936203206,2025-12-11,24.454087,-110.308139,Mexico,"Isla Espiritu Santo, Baja California Sur, Mexico",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/331944499,https://www.inaturalist.org/observations/331944499,1
+5862393057,2024-02-15,,,Thailand,,MATERIAL_SAMPLE,"Regalecus Ascanius, 1772",,https://portal.boldsystems.org/record/GBAAX69029-24,GBAAX69029-24,0
+6190084807,2024-02-15,,,Thailand,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://www.ebi.ac.uk/ena/browser/view/PP837671,PP837671,0
+4852163664,2024-04-20,-45.761376,170.6659,New Zealand,"Whareakeake, Otago, New Zealand",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/208829969,https://www.inaturalist.org/observations/208829969,1
+4852749981,2024-04-16,29.069595,-113.50137,Mexico,"San Quintín, B.C., México",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/207699943,https://www.inaturalist.org/observations/207699943,1
+5082866358,2024-04-21,,,Denmark,"Denmark, Skagerrak, Hamborg Beach east of Hanstholm",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Natural History Museum Denmark|Ichthyology,,3ac36663-9518-4455-8fca-67fdbeab65f3,0
+6044540663,2024-07-20,54.981525,-1.528951,United Kingdom of Great Britain and Northern Ireland,Hebburn river Tyne can show exact location,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",Northumberland Wildlife Trust - Records,,b2b3f8ea-cee6-411a-900e-3c7b814fe329,0
+5023094025,2024-08-15,32.850605,-117.273727,United States of America,La Jolla Cove,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,https://enjoynature.net/?gebiet=-1613835882&datum=15.08.24&art=1600377933,,0
+5838414168,2024-08-10,32.850333,-117.267,United States of America,USA | California | No Pacific Ocean | San Diego Co.: La Jolla Cove,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=cb3b0c3e-7849-4c05-a4e5-3eeb2b7118a7,cb3b0c3e-7849-4c05-a4e5-3eeb2b7118a7,0
+4974228913,2024-09-18,-40.784369,172.752628,New Zealand,"Patons Rock 7182, New Zealand",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/242848364,https://www.inaturalist.org/observations/242848364,1
+4982334087,2024-10-23,-40.792007,172.955449,New Zealand,"Tasman, New Zealand",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/251690277,https://www.inaturalist.org/observations/251690277,1
+4980308106,2024-11-06,33.075062,-117.309807,United States of America,"Grandview Beach, Encinitas, CA, US",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/250739168,https://www.inaturalist.org/observations/250739168,1
+4980356684,2024-11-08,23.991628,-109.825072,Mexico,"La Paz, MX-BS, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/250940763,https://www.inaturalist.org/observations/250940763,1
+4980557437,2024-11-08,23.991938,-109.825347,Mexico,MX,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/251389489,https://www.inaturalist.org/observations/251389489,1
+4982003002,2024-11-09,-40.596665,172.689267,New Zealand,"Pākawau 7073, New Zealand",HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/251692405,https://www.inaturalist.org/observations/251692405,1
+4982150425,2024-11-08,23.991617,-109.825042,Mexico,"La Paz, B.C.S., MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/251389527,https://www.inaturalist.org/observations/251389527,1
+5062898534,2024-11-08,23.99195,-109.825347,Mexico,"Ensenada de los Muertos, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/250954124,https://www.inaturalist.org/observations/250954124,1
+5213667325,2024-11-23,-36.3795,150.334167,Australia,E of Bermagui,PRESERVED_SPECIMEN,"Agrostichthys parkeri (Benham, 1904)",,,404f2b21-fa77-4c11-8078-483348766f98,0
+5215285325,2024-11-23,-36.3795,150.334167,Australia,E of Bermagui,PRESERVED_SPECIMEN,"Agrostichthys parkeri (Benham, 1904)",,,404f2b21-fa77-4c11-8078-483348766f98,0
+5838413445,2024-11-06,33.0737,-117.3092,United States of America,"USA | California | No Pacific Ocean | San Diego Co.: Encinitas: Grandview Beach, 400 m S of stairs; shore",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=a74eb7a4-436d-4e57-8e55-b0733ed175ba,a74eb7a4-436d-4e57-8e55-b0733ed175ba,0
+5167744578,2023-01-05,23.063656,-109.702438,Mexico,"San José del Cabo, BCS, Mexico",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/284537556,https://www.inaturalist.org/observations/284537556,1
+6196774039,2023-01-11,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,725a498b-4d7a-4b7d-98f3-6bf278b976a9,0
+4936545886,2023-07-08,-27.054544,153.458628,Australia,Australia,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/171663502,https://www.inaturalist.org/observations/171663502,1
+4985375309,2023-08-14,35.858992,126.315122,"Korea, Republic of",Gunsan-si Okdo-myeon,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,MABIK PI00060541,0
+5843889325,2023-08-12,21.065,109.096,China,Haicheng district,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,,SH20238602,0
+5843889326,2023-08-13,21.078,109.12,China,Haicheng district,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,,SH20238603,0
+5843889327,2023-08-13,21.071,109.138,China,Haicheng district,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,,SH20238604,0
+5843889328,2023-08-14,21.048,109.151,China,Haicheng district,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,,SH20238606,0
+5843889329,2023-08-15,21.035,109.148,China,Haicheng district,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,,SH20238607,0
+3455914912,2022-01-02,24.476086,-110.38062,Mexico,"Isla Espíritu Santo, BCS, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/104312195,https://www.inaturalist.org/observations/104312195,1
+3759176216,2022-03-28,-41.219756,174.711954,New Zealand,"Wellington, New Zealand",HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/109773401,https://www.inaturalist.org/observations/109773401,1
+3764334131,2022-04-25,-45.781146,170.710326,New Zealand,"Kaunihera a-Rohe o Ōtepoti, Otago, New Zealand",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/113063573,https://www.inaturalist.org/observations/113063573,1
+5206694512,2022-06-22,-16.204008,145.89984,Australia,Australia,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/283260280,https://www.inaturalist.org/observations/283260280,0
+3873572045,2022-07-11,-18.470127,-70.324005,Chile,"Coquimbo, Región de Coquimbo, Chile",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/125833470,https://www.inaturalist.org/observations/125833470,1
+6192627035,2022-07-20,43.953831,-28.528772,,Atlantic Ocean,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,,noaa-oer-okeanos-ex2205:12S_naive-bayes_addJ-rc_12S_efc-fish-addSI-addMF-derepU-classifier_20260312:EX2205_D01_09_12S_S3_occ_901912a82db014d465cf7d960bdf7ba2,0
+3966630725,2022-11-07,-42.723197,-73.02266,Chile,"Talcan, Chaitén, Los Lagos, Chile",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/141508864,https://www.inaturalist.org/observations/141508864,1
+4054084223,2021-02-08,31.478056,130.684167,Japan,"south coast of Tarumizu Port, Shiosai, Tarumizu, Kagoshima Bay, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,beccfe95-954c-4968-a52e-1d5f7057a18f,0
+4054085241,2021-02-08,31.478056,130.684167,Japan,"south coast of Tarumizu Port, Shiosai, Tarumizu, Kagoshima Bay, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,c2a8bbae-fc43-4df1-b4c3-5037fbd3d6ce,0
+3456668105,2021-05-21,25.793822,-80.125947,United States of America,"South Beach, Miami Beach, FL 33139, USA",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/103579475,https://www.inaturalist.org/observations/103579475,1
+4522017796,2021-05-07,,,Japan,Shukuura,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,a700150d-61ee-4049-8d7d-ad34c32b5828,0
+5208877301,2021-10-27,6.537222,79.42111,Sri Lanka,Sri Lanka,MATERIAL_CITATION,"Regalecus russelii (Cuvier, 1816)",,https://treatment.plazi.org/id/7A9C1268FA635B55A94B52D2FAF817D6#41D96C779D82A7F46F9C8BBC66485B84,7A9C1268FA635B55A94B52D2FAF817D6.mc.41D96C779D82A7F46F9C8BBC66485B84,0
+2898513052,2020-06-12,20.422984,-86.922343,Mexico,"Cozumel, Quintana Roo, México",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/62508966,https://www.inaturalist.org/observations/62508966,1
+2579508918,2019-01-01,31.291944,131.080278,Japan,"Uchinoura Bay, Kimotsuki, Kimotsuki-gun, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,aa93eb7c-f36f-4f95-a87a-bb22acdeac60,0
+3324242384,2019-05-03,,,Japan,"Kushikino, Ichikikushikino, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,218aec0d-c726-4fb6-a732-efae533cfbb5,0
+3412975656,2019-07-18,,,Japan,奈屋浦,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,68604647-9a86-4cca-8d37-96d55af53c7b,0
+2849474138,2019-08-28,-32.827675,28.119247,South Africa,Chintsa East,PRESERVED_SPECIMEN,"Regalecus Ascanius, 1772",Kevin Cole Chintsa 2019,,c8a67d67-1992-4c02-8c99-00cfcabd803e,1
+2574126455,2019-12-05,-41.425153,174.035158,New Zealand,"Rarangi 7273, New Zealand",HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/36510796,https://www.inaturalist.org/observations/36510796,1
+2458320270,2018-01-08,-42.9115,178.7865,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1801/7/AGR,0
+2492542845,2018-04-05,42.98155,6.36948,France,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,98837d5f-a94f-46c4-a09f-a7b59492ef7e,0
+2579496421,2018-04-23,28.2,129.25,Japan,"Kuji, Setouchi, Oshima-gun, Amami-oshima island, Amami Islands, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,660476ca-d59b-4ea0-80b1-bff7c3c3c986,0
+3412903354,2018-04-15,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,06e1b0f1-b7d9-424f-9071-985c69c61aa5,0
+4847558378,2018-06-23,24.182,-81.385367,United States of America,USA | Florida | No Atlantic Ocean | Florida Keys: 30 mi off Summerland Key; 30 mi,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=3e7104bd-acb0-48da-be54-c4d0d0eb643c,3e7104bd-acb0-48da-be54-c4d0d0eb643c,0
+2458322047,2018-11-30,-46.743333,166.156833,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",NZ research trawl surveys since 2008,,tan1811/21/OAR,0
+5070198504,2017-01-22,-41.0,142.5,Australia,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,761646e0-0018-4932-97b8-58951c5acc4e,0
+5070194376,2017-02-14,-33.5,115.0,Australia,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,cf9e1c1b-7a99-406c-91f8-a56410beb73c,0
+2248127891,2017-07-30,,,Japan,"off Fukui Prefecture, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,11b032f3-de49-4d86-a69b-96b0248b7093,0
+6396043893,2017-07-06,60.25051,1.98155,United Kingdom of Great Britain and Northern Ireland,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",imr_fish,,IMR2017834-37604-126525,0
+6396366701,2017-07-12,59.65847,3.50802,Norway,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",imr_fish,,IMR2017208-24160-126525,0
+2596672304,2017-09-03,-27.125834,155.54472,Australia,East of Moreton Island,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,25f51d08-69ff-4533-bb3d-e58d49680692,0
+4143625979,2017-09-03,-27.206944,155.919167,Australia,Tasman Sea,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,IN2017_V04-OP8CE6-202,0
+1805896981,2017-11-10,-36.8375,139.8428,Australia,"Marine Parade, Pinks Beach, Kingston SE, Kingston District Council, South Australia, 5275, Australia",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",Individual sighting,,567cdd86-4ae2-4104-b668-e0d6d0d1a8d2,1
+2458307864,2016-01-27,-42.9875,176.545,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1601/125/AGR,0
+2458312011,2016-01-17,-44.262,177.687833,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1601/72/AGR,0
+1416859616,2016-04-16,47.402333,-40.303167,,[east of Newfoundland],PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,urn:catalog:CAS:ICH:243640,0
+1416859622,2016-04-17,46.737833,-39.895667,,[east of Newfoundland],PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,urn:catalog:CAS:ICH:243641,0
+1416859637,2016-04-16,47.754667,-41.155,,[east of Newfoundland],PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,urn:catalog:CAS:ICH:243628,0
+3399489209,2016-04-16,43.352066,7.952264,Italy,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/99453297,https://www.inaturalist.org/observations/99453297,1
+3399491240,2016-04-16,43.35148,7.952093,Italy,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/99453294,https://www.inaturalist.org/observations/99453294,1
+3456186868,2016-04-16,43.346065,7.916986,Italy,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/104574565,https://www.inaturalist.org/observations/104574565,1
+1830119067,2016-11-09,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,8739c642-e972-4f9b-a561-09b299b20c54,0
+2244431878,2016-11-09,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,81c8122a-8fb7-4780-88bf-992ba376ba1b,0
+3450598251,2015-01-07,27.873996,-15.381871,Spain,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",Programa Poseidon - Citizen Science Project Results,,POS_42011_126525,0
+1092910306,2015-04-16,-45.784854,170.716853,New Zealand,"Aramoana Spit, Otago",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/1590102,http://naturewatch.org.nz/observations/1590102,1
+1802676261,2015-06-01,33.466005,-118.526945,United States of America,"Los Angeles County, CA, USA",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/9108444,https://www.inaturalist.org/observations/9108444,1
+1423580861,2015-09-14,32.850333,-117.267,United States of America,USA | California | No Pacific Ocean | San Diego Co.: La Jolla; on beach,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=172b7ff3-0c45-4e9a-9cc6-add191424a35,172b7ff3-0c45-4e9a-9cc6-add191424a35,0
+1572328365,2015-09-14,32.850542,-117.272268,United States of America,La Jolla Cove,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/1958340,http://www.inaturalist.org/observations/1958340,1
+2249179126,2015-12-02,,,Australia,Great Australian Bight,MATERIAL_SAMPLE,BOLD:AAF1667,,https://portal.boldsystems.org/record/FOAP338-17,FOAP338-17,0
+1262937576,2014-01-17,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65420,0
+1262937579,2014-01-30,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65423,0
+1262937594,2014-01-29,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65422,0
+1262937616,2014-01-19,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65421,0
+1262937624,2014-01-31,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65424,0
+1262937710,2014-01-20,28.583,-112.0,Mexico,"Norteastern Gulf of California, Bahia Kino",PRESERVED_SPECIMEN,"Regalecus Ascanius, 1772",,,NRM:NRM-Fish:65537,0
+2630189510,2014-01-20,28.801,-111.927,Mexico,Bahía de Kino,PRESERVED_SPECIMEN,"Regalecus Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=3e60ec28858af081fd5e3901475442be,3e60ec28858af081fd5e3901475442be,0
+3348820986,2014-01-11,,,Mexico,"Baja California Sur, Cabo Pulmo National",MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/MG547684,MG547684,0
+1262937630,2014-02-03,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65425,0
+1830752660,2014-02-14,31.428889,130.196944,Japan,"off east of Sakinoyama, Kataura, Kasasa, Minamisatsuma, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,9ee6f986-f8be-11e6-bfcb-70e2840fc270,0
+2579510542,2014-04-06,31.428889,130.196944,Japan,"off east of Sakinoyama, Kataura, Kasasa, Minamisatsuma, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,018f9b6c-ecea-45c6-a975-85004a2f9394,0
+5069194384,2014-04-07,24.842195,121.931682,Chinese Taipei,Yilan Sea,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,KTS_02101,0
+1100685843,2014-06-26,-33.596943,151.3064,Australia,"Pittwater, off Currawong Beach",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,5c7e47cf-e56f-4735-99c6-17244d18b4e0,1
+1100685848,2014-06-26,-33.596943,151.3064,Australia,"Pittwater, off Currawong Beach",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,987a6621-e15f-4124-b2ff-be2628eadddb,0
+3808680497,2014-08-09,33.98,-120.0,United States of America,"Eastern Pacific | | USA | California | Santa Barbara | Santa Rosa Island, between Skunk Point and the Torrey Pines, about a quarter to a half mile east of Torrey Pine (photographs only).",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",LACM Vertebrates,http://portal.vertnet.org/o/lacm/fish?id=c861468b-6aa1-41cb-9867-965a24690329,c861468b-6aa1-41cb-9867-965a24690329,0
+1828920695,2014-10-22,40.0697,-67.4164,United States of America,"Bear Seamount, north area",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",NMNH Extant Biology,,http://n2t.net/ark:/65665/330cf7ffc-8f7e-410c-9b7e-4b5d3da1c542,0
+1981040262,2014-10-15,39.55067,-67.33159,United States of America,Bear Seamount. R/V Pisces (PC14-04: Sta 1): Shallow Day Tow: Net Depth 694m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-027675.001,urn:uuid:4a51f253-655c-4c15-9102-aa76705548ff,0
+1981055713,2014-10-16,39.46501,-67.22256,United States of America,Bear Seamount. R/V Pisces (PC14-04: Sta 6): Deep Day Tow: Net Depth 1711m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-027596.001,urn:uuid:c040d4df-51b3-4331-8066-341f475dd6e0,0
+4443751875,2014-10-15,39.55067,-67.33159,United States of America,Bear Seamount. R/V Pisces (PC14-04: Sta 1): Shallow Day Tow: Net Depth 694m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-027675.002,urn:uuid:1776fbcb-afd2-4eef-b5d4-bfcb5156f597,0
+4443756594,2014-10-16,39.46501,-67.22256,United States of America,Bear Seamount. R/V Pisces (PC14-04: Sta 6): Deep Day Tow: Net Depth 1711m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-027596.002,urn:uuid:56440118-215e-4d02-9c67-09525378b306,0
+2860019446,2014-11-27,25.811452,-111.293088,Mexico,"Bahía de Loreto, Loreto, MX-BS, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/58441928,https://www.inaturalist.org/observations/58441928,1
+5069190466,2014-11-18,24.939393,121.909455,Chinese Taipei,Yilan Sea,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,KTS_02929,0
+1990406103,2013-01-22,-44.18,176.42,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1301/123/AGR,0
+1990407741,2013-01-08,-42.88,179.05,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1301/44/AGR,0
+1990408827,2013-01-04,-42.75,174.8,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1301/7/AGR,0
+6044085076,2013-01-01,55.74,-4.28,United Kingdom of Great Britain and Northern Ireland,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iSpot British Isles observations,,5acc9e9b-27d6-4c74-a764-abd8e6e2be7d,0
+1066019538,2013-02-03,-42.8655,147.337,Australia,"River Derwent, western shore, under Tasman Bridge",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,d5145db0-7ec3-416b-81b6-f8de7bd3c38d,0
+1829741063,2013-02-26,,,Japan,Niizaki,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,8b955178-f1a4-11e6-bd75-70e2840fc270,0
+2249174696,2013-02-03,-42.8655,147.337,Australia,Derwent River,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/FOAN1494-14,FOAN1494-14,0
+5009352247,2013-02-03,-42.8655,147.337,Australia,"River Derwent, western shore, under Tasman Bridge",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,d5145db0-7ec3-416b-81b6-f8de7bd3c38d,0
+1830749185,2013-06-12,29.235278,126.2775,Japan,East China Sea,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,9ccefab8-f8be-11e6-917f-70e2840fc270,0
+1054680211,2013-10-13,33.38,-118.35,United States of America,"Eastern Pacific | | USA | California | Los Angeles | Santa Catalina Island, Toyon Bay",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",LACM Vertebrates,http://portal.vertnet.org/o/lacm/fish?id=57410504-0e6f-4d91-8b70-eb5f512b7e76,57410504-0e6f-4d91-8b70-eb5f512b7e76,0
+1423575969,2013-10-18,33.200333,-117.383667,United States of America,USA | California | No Pacific Ocean | San Diego Co.: Oceanside; on beach,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=e2962222-b5ed-4ee3-8fb5-83671202d228,e2962222-b5ed-4ee3-8fb5-83671202d228,0
+1262937608,2013-12-17,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65419,0
+1829740890,2013-12-24,,,Japan,Hirata,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,8b58c7a8-f1a4-11e6-a92e-70e2840fc270,0
+1423569767,2012-04-26,22.848667,-109.500333,Mexico,Mexico | Baja California Sur | Pacific: Gulf of California | ~14 mi off San Jose del Cabo,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=f49096f0-832f-4455-a074-368d887fd529,f49096f0-832f-4455-a074-368d887fd529,0
+1830091187,2012-06-01,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,e352c8d0-f81d-11e6-9faf-70e2840fc270,0
+1830091593,2012-06-01,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,e352f292-f81d-11e6-9657-70e2840fc270,0
+1990401723,2012-07-24,-43.04,169.49,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1210/6/AGR,0
+1981050577,2012-08-31,39.92506,-67.250806,United States of America,"Bear Seamount. R/V Pisces, PC-12-05, Station 005. Deep Night Tow",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-026237.001,urn:uuid:9d5074d2-6f31-4746-ad41-bbc26a2081e5,0
+1981058018,2012-08-31,39.784614,-67.410878,United States of America,"Bear Seamount. R/V Pisces, PC-12-05, Station 006. Shallow Day Tow",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-025552.001,urn:uuid:cf1c3719-5a0a-4548-abcd-2b5f09537bba,0
+4443729774,2012-08-31,39.92506,-67.250806,United States of America,"Bear Seamount. R/V Pisces, PC-12-05, Station 005. Deep Night Tow",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-026237.002,urn:uuid:a131526d-8f3c-451d-85a6-12b9e962fd06,0
+4443734630,2012-08-31,39.784614,-67.410878,United States of America,"Bear Seamount. R/V Pisces, PC-12-05, Station 006. Shallow Day Tow",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-025552.002,urn:uuid:81b19bea-4563-494d-b8df-db1ce29b6b0d,0
+1981046022,2012-09-04,39.954294,-67.581422,United States of America,"Bear Seamount. R/V Pisces, PC-12-05, Station 025. Deep EXTRA Tow",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-025485,urn:uuid:765a3f4d-b1cb-48a1-9a3e-5f0fa0fd14a4,0
+1100685878,2012-11-25,-31.533333,159.05,Australia,"Old Gulch, Lord Howe Island",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,19085f87-ea0f-4b19-bbe2-ef3317d43e41,0
+1416543006,2012-11-22,-30.33,30.75,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/TZSAL807-13,TZSAL807-13,0
+1262937688,2011-01-18,35.2,139.14999,Japan,"Kanagawa Prefecture, Odawara City , Komekami , off Komekami, W. of Sagami Bay, 75 km SW Tokyo",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65540,0
+1829825579,2011-01-18,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,4f9ffcca-f81d-11e6-97e8-70e2840fc270,0
+1830022337,2011-01-19,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,bb8366a2-f81d-11e6-8545-70e2840fc270,0
+1414868551,2011-02-15,-29.867,31.05,South Africa,Durban,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/DSLAG1250-11,DSLAG1250-11,1
+1415805957,2011-04-21,18.411,-87.549,Mexico,"Cruise Gordon Gunter 1101, Station 086, 16.8 km Northwest of Cayo Lobos, Banco Chinchorro",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLE332-13,MFLE332-13,1
+1415892730,2011-04-21,18.411,-87.548,Mexico,Station 86,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MXFEC069-14,MXFEC069-14,1
+1415892731,2011-04-20,17.989,-87.886,Belize,Station 83,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MXFEC038-14,MXFEC038-14,1
+1415892762,2011-04-20,17.989,-87.886,Belize,Station 83,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MXFEC042-14,MXFEC042-14,1
+1415892774,2011-04-21,18.921,-87.597,Mexico,Station 90,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MXFEC116-14,MXFEC116-14,1
+1415892775,2011-04-21,18.632,-87.521,Mexico,Station 88,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MXFEC099-14,MXFEC099-14,1
+1415892816,2011-04-20,17.989,-87.886,Belize,Station 83,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MXFEC177-14,MXFEC177-14,1
+1415892818,2011-04-21,18.632,-87.521,Mexico,Station 88,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MXFEC204-14,MXFEC204-14,1
+1415892824,2011-04-21,18.541,-87.644,Mexico,Station 87,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MXFEC083-14,MXFEC083-14,1
+1898072650,2011-04-21,18.541,-87.644,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=f2335c716e7a8da1afa4a47da52a42b2,f2335c716e7a8da1afa4a47da52a42b2,0
+1898072652,2011-04-20,17.989,-87.886,Belize,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=345ca5525ac8a0c3799e6ddae1a197d1,345ca5525ac8a0c3799e6ddae1a197d1,0
+1898072657,2011-04-20,17.989,-87.886,Belize,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=d3c71462e2d2fd783d4bf87caf287739,d3c71462e2d2fd783d4bf87caf287739,0
+1898072673,2011-04-20,17.989,-87.886,Belize,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=7fccee33a91dce51ee567fb896988996,7fccee33a91dce51ee567fb896988996,0
+1898072676,2011-04-21,18.792,-87.567,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=c1f622d6b1d2031af7a0c16606a3ed9e,c1f622d6b1d2031af7a0c16606a3ed9e,0
+1898072677,2011-04-21,18.541,-87.644,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=e5baab258728b55b7f16e3f836d313d8,e5baab258728b55b7f16e3f836d313d8,0
+1898072686,2011-04-21,18.411,-87.548,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=8793b233c40458f39fa20c8da5da0bd6,8793b233c40458f39fa20c8da5da0bd6,0
+1898072688,2011-04-21,18.632,-87.521,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=75d9dec112b42c17ab0297a617ca2973,75d9dec112b42c17ab0297a617ca2973,0
+1898072695,2011-04-20,17.989,-87.886,Belize,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=c304e0458d90148dbe3a0d62f01c8c23,c304e0458d90148dbe3a0d62f01c8c23,0
+1898072696,2011-04-21,18.921,-87.597,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=271bbf6faf52b143e0613941b3a79393,271bbf6faf52b143e0613941b3a79393,0
+1898072717,2011-04-20,17.989,-87.886,Belize,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=ca78c3c11be09eec205487233491c8db,ca78c3c11be09eec205487233491c8db,0
+1898072720,2011-04-21,18.848,-86.858,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=8ae0cb62edb70d849022156ff106c5e4,8ae0cb62edb70d849022156ff106c5e4,0
+1898072724,2011-04-20,17.989,-87.886,Belize,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=8978b14dfa822f08c812f534e03cf05e,8978b14dfa822f08c812f534e03cf05e,0
+1898072734,2011-04-22,19.3,-87.181,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=b382473324bae9cc3c7355e1caa63874,b382473324bae9cc3c7355e1caa63874,0
+1898072746,2011-04-21,18.632,-87.521,Mexico,Gordon Gunter 1101,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=0695fe0d5f480fd2fcfc2b4a1f3e2a46,0695fe0d5f480fd2fcfc2b4a1f3e2a46,0
+3347726606,2011-04-22,19.3,-87.18,Mexico,"Quintana Roo, Station 95",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086910,KR086910,0
+3350550796,2011-04-21,18.92,-87.6,Mexico,"Quintana Roo, Station 90",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086903,KR086903,0
+3350564587,2011-04-21,18.85,-86.86,Mexico,"Quintana Roo, Station 93",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086896,KR086896,0
+3350564588,2011-04-20,17.99,-87.89,Belize,"Corozal, Station 83",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086904,KR086904,0
+3350569688,2011-04-21,18.54,-87.64,Mexico,"Quintana Roo, Station 87",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086900,KR086900,0
+3350585741,2011-04-21,18.54,-87.64,Mexico,"Quintana Roo, Station 87",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086901,KR086901,0
+3350609793,2011-04-21,18.63,-87.52,Mexico,"Quintana Roo, Station 88",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086902,KR086902,0
+3350651804,2011-04-20,17.99,-87.89,Belize,"Corozal, Station 83",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086898,KR086898,0
+3350651805,2011-04-20,17.99,-87.89,Belize,"Corozal, Station 83",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086906,KR086906,0
+3350658521,2011-04-20,17.99,-87.89,Belize,"Corozal, Station 83",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086897,KR086897,0
+3350658522,2011-04-21,18.63,-87.52,Mexico,"Quintana Roo, Station 88",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086905,KR086905,0
+3350675896,2011-04-20,17.99,-87.89,Belize,"Corozal, Station 83",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086908,KR086908,0
+3350680847,2011-04-21,18.79,-87.57,Mexico,"Quintana Roo, Station 89",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086909,KR086909,0
+3350682752,2011-04-21,18.41,-87.55,Mexico,"Quintana Roo, Station 86",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086899,KR086899,0
+3350682753,2011-04-20,17.99,-87.89,Belize,"Corozal, Station 83",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KR086907,KR086907,0
+1085605871,2011-05-16,23.1,121.37,Chinese Taipei,Chenggong,OCCURRENCE,"Regalecus russelii (Cuvier, 1816)",,,,0
+1137112642,2011-05-30,28.374149,-87.487989,United States of America,"North America | United States | Alabama | 130mi south of Orange Beach, near Independence Hub rig",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://portal.vertnet.org/o/lsumz/fishes?id=03f86e72-2c79-11e4-b6be-a4badbf9cec0,03f86e72-2c79-11e4-b6be-a4badbf9cec0,0
+1851772859,2011-05-16,23.056,121.709,Chinese Taipei,"Chenggong, Taiwan",MATERIAL_SAMPLE,"Regalecus russelii (Cuvier, 1816)","Colección de referencia de otolitos, Instituto de Ciencias del Mar-CSIC",,urn:catalog:ICM-CSIC:AFORO-ICM:10397,1
+1990420845,2011-06-30,-40.06,168.05,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",NZ research trawl surveys since 2008,,thh1101/26/OAR,0
+1990421578,2011-07-07,-39.8,168.13,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",NZ research trawl surveys since 2008,,thh1101/76/OAR,0
+1416542654,2011-09-28,-30.33,30.75,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/TZSAL349-13,TZSAL349-13,0
+2251567360,2011-09-22,-30.33,30.75,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/TZSAL353-13,TZSAL353-13,0
+1423569610,2011-11-26,23.410333,-110.230333,Mexico,Mexico | Baja California Sur | Pacific: Gulf of California | Todos Santos Commercial Beach,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=3ead804c-8744-48dc-b285-7e759c85474a,3ead804c-8744-48dc-b285-7e759c85474a,0
+1830045760,2011-11-11,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,ca3c98bc-f81d-11e6-87fe-70e2840fc270,0
+1830046323,2011-11-11,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,ca3cc134-f81d-11e6-a971-70e2840fc270,0
+1990395045,2011-12-09,-50.69,167.35,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1117/51/AGR,0
+1262937560,2010-01-04,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65417,0
+1262937592,2010-01-04,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65416,0
+1262937593,2010-01-04,35.53333,135.19999,Japan,"Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65418,0
+1416152233,2010-02-20,19.035,-104.324,Mexico,Playa la boquita,MATERIAL_SAMPLE,"Regalecus Ascanius, 1772",,https://portal.boldsystems.org/record/SEMAR114-10,SEMAR114-10,0
+4091371161,2010-02-25,19.105559,-104.398709,Mexico,"Marina Puerto Santiago, Manzanillo, Col., México",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/155059505,https://www.inaturalist.org/observations/155059505,1
+1829822075,2010-03-14,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,4edae4d0-f81d-11e6-a28e-70e2840fc270,0
+1830101981,2010-03-14,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,e7644548-f81d-11e6-9c04-70e2840fc270,0
+1990382310,2010-03-31,-42.09,174.5,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan1003/111/AGR,0
+1990384976,2010-03-23,-39.93,178.15,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",NZ research trawl surveys since 2008,,tan1003/37/OAR,0
+1990385331,2010-03-24,-39.64,178.21,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",NZ research trawl surveys since 2008,,tan1003/51/OAR,0
+1262937689,2010-04-01,34.65999,131.64999,Japan,"Southern Japan, Off Esaki, Hagi, Yamaguchi, Sea of Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65538,0
+1415807373,2010-04-09,20.327,-86.856,Mexico,"Cruise Gordon Gunter 1001, Station 15, 12.1 Km Southeast of Cozumel",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLV682-10,MFLV682-10,0
+1415807385,2010-04-09,20.327,-86.856,Mexico,"Cruise Gordon Gunter 1001, Station 15, 12.1 Km Southeast of Cozumel",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLV680-10,MFLV680-10,0
+1415807393,2010-04-09,20.327,-86.856,Mexico,"Cruise Gordon Gunter 1001, Station 15, 12.1 Km Southeast of Cozumel",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLV679-10,MFLV679-10,0
+1415807396,2010-04-10,21.009,-86.523,Mexico,"Cruise Gordon Gunter 1001, Station 26, 27.4 Km East of Punta Nizuc",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLV712-10,MFLV712-10,0
+1415807437,2010-04-09,20.327,-86.856,Mexico,"Cruise Gordon Gunter 1001, Station 15, 12.1 Km Southeast of Cozumel",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLV681-10,MFLV681-10,0
+1415807755,2010-04-08,20.119,-87.083,Mexico,"GG1001, St.13 Neuston",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLVI523-10,MFLVI523-10,0
+1415807756,2010-04-08,20.119,-87.083,Mexico,"GG1001, St.13 Neuston",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLVI521-10,MFLVI521-10,0
+1415807788,2010-04-08,20.119,-87.083,Mexico,"GG1001, St.13 Neuston",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLVI524-10,MFLVI524-10,0
+1829821217,2010-04-01,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,4e835b98-f81d-11e6-8700-70e2840fc270,0
+1830019790,2010-04-25,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,ba294b64-f81d-11e6-8add-70e2840fc270,0
+1898072600,2010-04-09,20.326999,-86.856003,Mexico,"Cruise Gordon Gunter 1001, Station 15, 12.1 Km Southeast of Cozumel",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=bf516d116ff8de0735be8d0c6b2fc2d8,bf516d116ff8de0735be8d0c6b2fc2d8,0
+1898072639,2010-04-09,20.326999,-86.856003,Mexico,"Cruise Gordon Gunter 1001, Station 15, 12.1 Km Southeast of Cozumel",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=b49f3212a9ece5f17a96d41a13445e8f,b49f3212a9ece5f17a96d41a13445e8f,0
+1898072645,2010-04-10,21.009001,-86.523002,Mexico,"Cruise Gordon Gunter 1001, Station 26, 27.4 Km East of Punta Nizuc",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=dacdbf0a5a3a729abdf6239522e8a8d4,dacdbf0a5a3a729abdf6239522e8a8d4,0
+1898072647,2010-04-09,20.326999,-86.856003,Mexico,"Cruise Gordon Gunter 1001, Station 15, 12.1 Km Southeast of Cozumel",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=a52217be3d557b0a8de9898bf19966cc,a52217be3d557b0a8de9898bf19966cc,0
+1898072700,2010-04-09,20.326999,-86.856003,Mexico,"Cruise Gordon Gunter 1001, Station 15, 12.1 Km Southeast of Cozumel",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fortalecimiento de las colecciones de ECOSUR. Primera fase,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=831314f536a13923f78a7984c6f41310,831314f536a13923f78a7984c6f41310,0
+683943277,2010-05-08,,,Sweden,"Bovallstrand, Badholmarna, i vattnet vid ett sjöbod",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,30b1732e-6494-4991-8a8f-e5de41ce233a,0
+5070196679,2010-07-01,-43.0,148.0,Australia,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",,,89704cfe-effe-45d8-b931-035b828747f4,0
+2579506300,2010-08-06,35.561667,135.245,Japan,"Oda, Miyazu, Kyoto, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,6d278fc9-4fda-4264-8eb6-749f41ab3865,0
+1230411842,2010-10-07,-34.153667,18.860053,South Africa,"Gordon's Bay, Villa Via Hotel",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,2ef811e9-fc21-11e2-ac3f-081965b14959,0
+1054690212,2010-11-28,34.03,-118.69,United States of America,"Eastern Pacific | | USA | California | Los Angeles | Off Malibu Colony, just N. of Malibu Lagoon",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",LACM Vertebrates,http://portal.vertnet.org/o/lacm/fish?id=677115bc-d19b-4fff-8e19-5362b5f7f719,677115bc-d19b-4fff-8e19-5362b5f7f719,0
+1829002085,2009-01-22,,,Japan,Nonai Fishing Port,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,5f4917f2-eeb7-11e6-b568-70e2840fc270,0
+1830765515,2009-02-27,27.766667,126.25,Japan,East China Sea,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,a71536b8-f8be-11e6-bbc4-70e2840fc270,0
+4116941335,2009-02-24,55.025,-1.425,United Kingdom of Great Britain and Northern Ireland,,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",1743-2010 National Marine Aquarium (NMA) United Kingdom Marine Fish Recording Scheme,,DASSHDT00000002_SE_0672_126525,0
+4116942778,2009-02-01,55.32076,-1.549204,United Kingdom of Great Britain and Northern Ireland,,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",1743-2010 National Marine Aquarium (NMA) United Kingdom Marine Fish Recording Scheme,,DASSHDT00000002_SE_0671_126525,0
+1830711643,2009-05-18,31.428889,130.196945,Japan,"Off east of Sakinoyama, Kataura, Kasasa, Minamisatsuma, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,8491fb12-f8be-11e6-85c1-70e2840fc270,0
+2831939745,2009-05-19,,,Netherlands,,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,https://data.biodiversitydata.nl/naturalis/specimen/RMNH.PISC.35681,1
+3698494613,2009-05-06,24.425467,-80.755467,United States of America,North America | United States | Florida | Marathon Hump,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://portal.vertnet.org/o/cumv/fish?id=3e7301fc-f472-11e6-8713-0050569523c7,3e7301fc-f472-11e6-8713-0050569523c7,0
+3714631466,2009-05-19,53.25,4.95,Netherlands,Vlieland (algemeen),HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,https://observation.org/observation/43065981,0
+3714733472,2009-05-19,53.05,4.8,Netherlands,Texel (gemeente),HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,https://observation.org/observation/43066025,0
+1830713959,2009-06-16,,,Japan,"Off east of Sakinoyama, Kataura, Kasasa",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,85a3f8ca-f8be-11e6-ac46-70e2840fc270,0
+4952393462,2009-08-07,-34.800108,20.057228,South Africa,Struisbaai Slipway,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",iNaturalist research-grade observations,https://www.inaturalist.org/observations/245612203,https://www.inaturalist.org/observations/245612203,1
+1414868760,2009-11-23,-30.333,30.75,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/DSLAG723-10,DSLAG723-10,1
+1414868857,2009-11-23,-30.333,30.75,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/DSLAG720-10,DSLAG720-10,1
+1414868942,2009-11-27,-30.333,30.75,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/DSLAG721-10,DSLAG721-10,1
+1414868837,2009-12-04,-30.431,30.851,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/DSLAG724-10,DSLAG724-10,1
+1990375828,2009-12-01,-48.61,175.25,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",NZ research trawl surveys since 2008,,tan0911/15/AGR,0
+1830702379,2008-05-23,31.418333,130.208889,Japan,"Off northeast of Matsu Island, Kasasa, Minamisatsuma, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,7eccbe1a-f8be-11e6-8666-70e2840fc270,0
+1262937683,2007-01-20,33.7,129.75,Japan,"Genkai Sea, Ikinoshima Island, off Ishida",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,NRM:NRM-Fish:65539,0
+1427208024,2007-01-20,-42.9817,174.2478,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,282431,0
+1829822181,2007-01-20,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,4e838366-f81d-11e6-9218-70e2840fc270,0
+1934480154,2007-02-02,,,Japan,"Japan, Shikoku, Ehime Pref., Yawayahama City, Sashima",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C76248%2C,9d6558ec-c8d9-479f-bd3d-346ce278e464,0
+1830700561,2007-03-24,31.428889,130.196945,Japan,"Off east of Sakinoyama, Kataura, Kasasa, Minamisatsuma, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,7d9eb4e4-f8be-11e6-95f4-70e2840fc270,0
+624216193,2007-04-29,27.24,-90.23,United States of America,Northern Gulf of Mexico,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,714CCCA0-F785-445C-AFCE-E59471588DC2,0
+4105402509,2007-04-29,27.24,-90.23,unknown or invalid,Northern Gulf of Mexico,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fishes of Texas Project,http://www.fishesoftexas.org/specimen/UF_167296,e0f4ed08-9af2-41c8-b1ae-3df5ccfa37ec,0
+1427057279,2007-05-11,-43.5143,174.0068,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,131700,0
+2249105623,2007-07-31,-30.431,30.851,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/DSLAF724-08,DSLAF724-08,1
+1230397862,2007-10-05,-25.58,33.848333,Mozambique,Off Mozambique,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,2d44201d-fc21-11e2-ac3f-081965b14959,1
+1934482945,2007-10-29,,,Japan,"Japan, Honshu, Pacific off Fukushima Pref.",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C79347%2C,5a4f6712-7666-4789-9a59-b3616eba5134,0
+2249167389,2007-11-05,-41.28333,174.8,New Zealand,,MATERIAL_SAMPLE,BOLD:AAF1667,,https://portal.boldsystems.org/record/FNZA705-08,FNZA705-08,0
+1427214451,2007-12-07,-50.8073,167.1,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,288882,0
+1427202589,2006-01-03,-43.1572,-179.136,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,276986,0
+1825683299,2006-02-26,59.29779,4.893483,Norway,"Sørevågen, Utsira, Utsira, Ro",HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,urn:uuid:fce05b43-0fc6-461a-b5e9-2a2ad072b548,0
+2864605572,2006-02-23,25.826454,-111.229375,Mexico,"Bahía de Loreto, Loreto, MX-BS, MX",HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",iNaturalist research-grade observations,https://www.inaturalist.org/observations/58440646,https://www.inaturalist.org/observations/58440646,1
+1415807902,2006-03-21,18.268,-87.824,Mexico,Xcalak,MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/MFLVI641-10,MFLVI641-10,0
+624212232,2006-04-12,24.283333,-81.75,United States of America,"Straits of Florida, south of Key West",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,3923CE20-713E-4166-9F28-2FB8D87E4274,0
+624212233,2006-04-17,24.216667,-81.583333,United States of America,"Straits of Florida, south-southeast of Key West",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,44F799FC-5A0A-48E9-ACFF-A2ACCB24B32A,0
+863261120,2006-06-18,39.8575,-66.92861,United States of America,Bear Seamount; 0-1000 m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:165936,MCZ:Ich:165936,1
+1066016303,2006-06-29,-43.183333,147.85,Australia,Safety Cove,PRESERVED_SPECIMEN,"Agrostichthys parkeri (Benham, 1904)",,,8ea9561d-b7aa-4326-8bbc-deaf16364d57,0
+2249171097,2006-06-29,-43.183,147.85,Australia,Safety Cove,MATERIAL_SAMPLE,BOLD:AAF1667,,https://portal.boldsystems.org/record/FOAF815-07,FOAF815-07,0
+2650403618,2006-06-19,39.8575,-66.9285,United States of America,,HUMAN_OBSERVATION,"Regalecus Ascanius, 1772",,,f37fca79-b733-11ea-a9a7-a7e94413c0ba,0
+2650619600,2006-06-18,39.86133,-66.89733,United States of America,,HUMAN_OBSERVATION,"Regalecus Ascanius, 1772",,,f37aeabb-b733-11ea-a9a7-a7e94413c0ba,0
+2650635394,2006-06-17,39.92433,-67.54533,United States of America,,HUMAN_OBSERVATION,"Regalecus Ascanius, 1772",,,f37f7b7a-b733-11ea-a9a7-a7e94413c0ba,0
+5009245616,2006-06-29,-43.183333,147.85,Australia,Safety Cove,PRESERVED_SPECIMEN,"Agrostichthys parkeri (Benham, 1904)",,,8ea9561d-b7aa-4326-8bbc-deaf16364d57,0
+218777307,2006-08-08,24.94,121.9,Chinese Taipei,Dash,OCCURRENCE,"Regalecus russelii (Cuvier, 1816)",,,,0
+218777308,2006-08-08,24.94,121.9,Chinese Taipei,Dash,OCCURRENCE,"Regalecus russelii (Cuvier, 1816)",,,,0
+218777309,2006-08-08,24.94,121.9,Chinese Taipei,Dash,OCCURRENCE,"Regalecus russelii (Cuvier, 1816)",,,,0
+1054707422,2006-08-16,33.45,-118.48,United States of America,"Eastern Pacific | | USA | California | Los Angeles | Santa Catalina Island, Big Fisherman Cove, washed ashore at the Wrigley Marine Science Center",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",LACM Vertebrates,http://portal.vertnet.org/o/lacm/fish?id=837f4dac-eb8c-40cc-b46c-db434962dea8,837f4dac-eb8c-40cc-b46c-db434962dea8,0
+2249184764,2006-08-08,24.94,121.9,Chinese Taipei,,MATERIAL_SAMPLE,"Regalecus Ascanius, 1772",,https://portal.boldsystems.org/record/FTWS710-09,FTWS710-09,0
+1934518672,2005-01-23,,,Japan,"Japan, Shikoku, Ehime Pref., Inland Sea of Seto, off Yahatahama, near Sajima Island",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C70030%2C,9803e9b9-f88c-4300-9ca3-3eb32f747b55,0
+624198821,2005-03-07,27.297528,-82.562778,United States of America,"Big Sarasota Pass, between north end of Siesta Key, and south end of Lido Key",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,424CD8EE-1D38-4C80-BD93-228EE3C3A2B6,1
+2251568508,2005-07-30,-30.333,30.75,South Africa,Park Rynie,MATERIAL_SAMPLE,BOLD:AAF8340,,https://portal.boldsystems.org/record/TZSAN053-06,TZSAN053-06,1
+1100676053,2005-10-11,-31.733334,159.25,Australia,"Lord Howe Island, 3km West of Balls Pyramid",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,4ea7ad62-2a4b-4bea-9618-d0517a28b358,0
+1100676070,2005-10-11,-31.733334,159.25,Australia,"Lord Howe Island, 3km West of Balls Pyramid",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,8fe0b1b4-9a6d-4c23-bc08-678d299005f8,0
+1100676119,2005-10-11,-31.733334,159.25,Australia,"Lord Howe Island, 3km West of Balls Pyramid",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,bf04e30d-92e6-44f3-8f57-f73ce4d22a2d,0
+1830056052,2004-01-11,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,d0909042-f81d-11e6-a0e2-70e2840fc270,0
+656982517,2004-06-04,39.96,-67.432222,United States of America,"Georges Bank, Bear Seamount",MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",University of Kansas Biodiversity Institute Fish Tissue Collection,,b8a54009-9037-4698-8981-9155db755aff,0
+863255949,2004-06-06,39.91667,-67.41639,United States of America,Bear Seamount; 0-870m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:164044,MCZ:Ich:164044,0
+863255992,2004-06-04,39.96,-67.43222,United States of America,Bear Seamount; 0-408m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:164041,MCZ:Ich:164041,0
+863256029,2004-06-05,39.83806,-67.41333,United States of America,Bear Seamount; 0-455m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:164042,MCZ:Ich:164042,0
+863256040,2004-06-05,39.9675,-67.38389,United States of America,Bear Seamount; 0-1640m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:164043,MCZ:Ich:164043,0
+1981036893,2004-06-06,39.893,-67.3117,United States of America,Bear Seamount. Station 15: Delaware Cruise 200422: DE09,PRESERVED_SPECIMEN,"Regalecus Ascanius, 1772",,http://collections.peabody.yale.edu/search/Record/YPM-ICH-015009,urn:uuid:2dc1788c-5d3b-45a8-97ea-2e261bf78838,0
+2251574092,2004-06-04,39.96,-67.432,unknown or invalid,"Georges Bank, Bear Seamount",MATERIAL_SAMPLE,BOLD:AAF8341,,https://portal.boldsystems.org/record/UKFBI838-08,UKFBI838-08,0
+2650392481,2004-06-06,39.91668,-67.41632,United States of America,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,f36ea14f-b733-11ea-a9a7-a7e94413c0ba,0
+2650392486,2004-06-05,39.83818,-67.41337,United States of America,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,f37074cf-b733-11ea-a9a7-a7e94413c0ba,0
+2650394597,2004-06-04,39.95987,-67.43225,United States of America,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,f3607a17-b733-11ea-a9a7-a7e94413c0ba,0
+2650404449,2004-06-06,39.89295,-67.31162,United States of America,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,f36d42a4-b733-11ea-a9a7-a7e94413c0ba,0
+2650642460,2004-06-05,,,United States of America,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,f360a12b-b733-11ea-a9a7-a7e94413c0ba,0
+3347214163,2004-06-04,39.96,-67.43,United States of America,"Georges Bank, Bear Seamount",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/KF930351,KF930351,0
+1066016051,2004-10-27,-44.14,147.26,Australia,Pedra Branca area,PRESERVED_SPECIMEN,"Agrostichthys parkeri (Benham, 1904)",,,1e16ea36-3def-4ba7-9545-b477e991f28a,0
+1066017608,2004-10-25,-32.583333,115.716667,Australia,beach at Peel Inlet/Harvey Estuary,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,a1fac926-87f9-4591-ba03-a15be103b2f3,0
+2249171121,2004-10-27,-44.133,147.25,Australia,off Pedra Branca,MATERIAL_SAMPLE,BOLD:AAF1667,,https://portal.boldsystems.org/record/FOAE284-06,FOAE284-06,0
+4916224504,2004-10-25,-32.583,115.717,Australia,Peel-Harvey estuary,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,https://portal.boldsystems.org/record/FOAE291-06,FOAE291-06,0
+5008982533,2004-10-27,-44.14,147.26,Australia,Pedra Branca area,PRESERVED_SPECIMEN,"Agrostichthys parkeri (Benham, 1904)",,,1e16ea36-3def-4ba7-9545-b477e991f28a,0
+5009228532,2004-10-25,-32.583333,115.716667,Australia,beach at Peel Inlet/Harvey Estuary,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,a1fac926-87f9-4591-ba03-a15be103b2f3,0
+4127945190,2004-12-09,31.32875,-10.476,Morocco,,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Colección de Fauna Marina del Centro Oceanográfico de Málaga (IEO-CSIC): CFM-IEOMA,,urn:catalog:IEO-COMA-CSIC:CFM-IEOMA:4752,0
+415439732,2003-02-08,,,Japan,Tateyama,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,5047ac9c-f81b-11e6-81a7-70e2840fc270,0
+4116943157,2003-02-20,54.616667,-0.866667,United Kingdom of Great Britain and Northern Ireland,,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",1743-2010 National Marine Aquarium (NMA) United Kingdom Marine Fish Recording Scheme,,DASSHDT00000002_SE_0670_126525,0
+863237176,2003-05-20,39.88083,-67.43972,United States of America,Bear Seamount; 0-1430 m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:163286,MCZ:Ich:163286,0
+863260559,2003-05-15,39.86917,-67.25583,United States of America,[no verbatim locality data],PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:163051,MCZ:Ich:163051,0
+863260565,2003-05-17,39.81528,-67.45333,United States of America,[no specific locality data],PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:163054,MCZ:Ich:163054,0
+863260567,2003-05-18,39.89444,-67.30194,United States of America,[no specific locality data],PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:163055,MCZ:Ich:163055,0
+863260606,2003-05-16,39.94417,-67.27,United States of America,[no specific locality data],PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:163053,MCZ:Ich:163053,0
+863260607,2003-05-15,40.00944,-67.39333,United States of America,[no specific locality data],PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:163052,MCZ:Ich:163052,0
+1934480355,2003-05-22,,,Japan,off Ryukyu Is.,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C76522%2C,fbb009d0-792c-4c94-89d0-225369bec6f8,0
+1427183292,2003-11-27,-51.3448,166.5877,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,257718,0
+1427171263,2002-01-24,-43.0813,-178.1967,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,245685,0
+43989181,2002-05-22,,,Japan,"Japan, Sea of Japan, Honshu, Hyogo Pref., Mikata-gun, Hamasaka Town, off Kamaya",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C63945%2C,38e05e9e-15ca-40a5-ac52-f9616730e3be,0
+1934480333,2002-05-17,,,Japan,Ryukyu Is. off Yaeyama Is.,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C76509%2C,cbd3f024-e72d-4ae4-8b88-e45717dc939a,0
+5763517580,2002-05-12,40.2627,3.7802,Spain,,OCCURRENCE,"Regalecus glesne Ascanius, 1772",,,urn:catalog:COB - IEO:BALAR:11746,0
+624196740,2002-06-08,24.92389,-80.62806,United States of America,Off Islamorada,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,2C18BA8B-F79F-4174-A3CB-FFF2D0F1AC9C,1
+43989178,2002-07-05,,,Japan,"Japan, Sea of Japan, Honshu, Hyogo Pref., Mikata-gun, Hamasaka Town, off Kamaya",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C64357%2C,5d39e31b-69eb-45ab-85cd-da413926fae0,0
+43989182,2002-07-24,,,Japan,"Japan, Sea of Japan, Honshu, Hyogo Pref., Mikata-gun, Hamasaka Town, off Kamaya",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C64490%2C,fc2e4915-0c01-4f13-845a-d2252b56df70,0
+656962328,2002-07-17,40.18333,-68.08333,United States of America,Slope water,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",University of Kansas Biodiversity Institute Fish Tissue Collection,,271ea8dc-ec32-4b78-9a83-c0a5a264cd22,0
+863237480,2002-07-26,39.93,-67.36,United States of America,vicinity of Bear Seamount,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:161668,MCZ:Ich:161668,0
+863237505,2002-07-19,39.98,-67.99,United States of America,0-1160 m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:161667,MCZ:Ich:161667,1
+1427125218,2002-07-18,-42.7763,179.76,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,199633,0
+1427175977,2002-07-15,-42.7728,179.8365,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,250418,0
+656979504,2002-08-01,40.7,-66.58333,United States of America,Slope water,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",University of Kansas Biodiversity Institute Fish Tissue Collection,,cb35b906-2996-42a4-979e-15b19047f4a0,0
+863237466,2002-08-01,40.71,-66.59,United States of America,[coordinate data only]; 0-1536 m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:161669,MCZ:Ich:161669,0
+1427179036,2002-12-17,-48.3078,169.5947,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,253442,0
+1427161351,2001-01-18,-43.8377,175.6065,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,235784,0
+1427161769,2001-01-21,-43.4158,174.3477,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,236187,0
+1830692376,2001-04-02,31.428889,130.196945,Japan,"Off east of Sakinoyama, Kataura, Kasasa, Minamisatsuma, Kagoshima, Japan",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,78446106-f8be-11e6-958b-70e2840fc270,0
+43989179,2001-05-21,,,Japan,"Japan, Sea of Japan, Honshu, Hyogo Pref., Mikata-gun, Hamasaka Town, off Kamaya",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C61144%2C,8cbd6a47-8f74-470f-835c-43d165f49e1f,0
+43989176,2001-06-05,,,Japan,"Japan, Sea of Japan, Honshu, Hyogo Pref., Mikata-gun, Hamasaka Town, off Kamaya",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C61085%2C,c80e034b-ef28-425c-94f1-d15915156a2b,0
+6396111738,2001-06-16,59.07,-14.13167,United Kingdom of Great Britain and Northern Ireland,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",imr_fish,,IMR2001009-81401-126525,0
+6396215919,2001-06-17,59.27333,-17.18833,,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",imr_fish,,IMR2001009-81402-126525,0
+1427165674,2001-07-25,-41.618,174.7528,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,240126,0
+1427165782,2001-07-27,-41.6078,174.6985,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,240207,0
+1427165796,2001-07-27,-41.6058,174.6922,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,240201,0
+1830021421,2001-11-16,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,badb6d12-f81d-11e6-84ff-70e2840fc270,0
+1230394167,2000-01-22,-35.3833,18.7,South Africa,Western Agulhas Bank,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,2af4dc2b-fc21-11e2-ac3f-081965b14959,0
+1427153557,2000-01-09,-43.808,179.5702,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,228000,0
+218777311,2000-05-21,25.17,121.4,Chinese Taipei,"Bali, Taipei",OCCURRENCE,"Regalecus Ascanius, 1772",,,,0
+218777306,2000-09-28,23.94,121.51,Chinese Taipei,"set net, Chongde, Hualien",OCCURRENCE,"Regalecus glesne Ascanius, 1772",,,,0
+1427159346,2000-11-27,-48.4858,172.504,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,233791,0
+1427159784,2000-12-07,-49.2138,167.8957,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,234170,0
+863248707,1999-02-11,35.06,-75.09,United States of America,Station 30,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:155453,MCZ:Ich:155453,0
+1830002453,1999-02-18,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,af01f664-f81d-11e6-bb6e-70e2840fc270,0
+43464327,1999-04-14,28.133333,-14.033333,Spain,"Canary Islands, off Fuerteventura",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Natural History Museum Denmark|Ichthyology,,ea45bd2e-ef3f-4cb9-82e3-2029465a30cd,0
+4464494253,1999-04-23,27.766667,-15.816667,Spain,"Canary Islands, off Gran Canaria",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Natural History Museum Denmark|Ichthyology,,c1ff186d-b4eb-450a-a97d-e2543a7b4826,0
+4464502621,1999-04-23,27.65,-15.65,Spain,"Canary Islands, off Gran Canaria",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Natural History Museum Denmark|Ichthyology,,9d386571-8399-4fa4-8c54-1b26aa91b0d3,0
+1427311083,1999-07-06,-42.7265,-179.9432,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,385527,0
+218777310,1999-12-01,23.94,121.51,Chinese Taipei,"Liyu Pond, Hualien River, Hualien",OCCURRENCE,"Regalecus Ascanius, 1772",,,,0
+1427300997,1998-01-22,-43.5465,175.8585,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,375409,0
+1427300999,1998-01-21,-43.5043,175.8213,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,375392,0
+1427301001,1998-01-22,-43.8258,175.6095,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,375414,0
+1418840566,1998-07-09,23.373611,-109.433056,Mexico,"Frente a los Frailes, Baja California Sur",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",Registros ictiofaunísticos de localidades selectas de 10 regiones marinas prioritarias del Pacífico Mexicano,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=6de69ca4e5ee9769dfaa8d852ae34e34,6de69ca4e5ee9769dfaa8d852ae34e34,0
+1427305812,1998-07-28,-42.966,-174.4032,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,380247,0
+1427305982,1998-09-13,-53.0117,170.2342,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,380390,0
+656966623,1997-10-26,32.714939,-117.449601,United States of America,about 17 miles West of San Diego,MATERIAL_SAMPLE,"Regalecus russelii (Cuvier, 1816)",University of Kansas Biodiversity Institute Fish Tissue Collection,,4b6dea50-8c40-4790-9ab9-29bd9aedfdeb,0
+864587650,1997-10-26,,,United States of America,ca 17 miles W of Point Loma,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,FishBase:Occurrence:SIO 97-226,0
+1423552670,1997-10-26,32.683667,-117.250333,United States of America,USA | California | No Pacific Ocean | ca 17 miles W of Point Loma,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=def8c48f-9b30-4abf-8550-ccb65ed6d653,def8c48f-9b30-4abf-8550-ccb65ed6d653,0
+1423575135,1997-10-26,32.683667,-117.250333,United States of America,USA | California | No Pacific Ocean | ca 17 miles W of Point Loma,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=34cd1c13-2397-4c29-a33f-5ff9a2ded5cb,34cd1c13-2397-4c29-a33f-5ff9a2ded5cb,0
+4152801623,1997-10-26,32.68,-117.25,United States of America,,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://www.ebi.ac.uk/ena/browser/view/OQ846377,OQ846377,0
+4916021684,1997-10-26,32.683,-117.25,unknown or invalid,ca 17 miles W of Point Loma,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",,https://portal.boldsystems.org/record/MFC171-08,MFC171-08,0
+1427290980,1996-01-20,-43.0178,174.889,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,365409,0
+1427291212,1996-01-28,-43.2178,177.5375,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,365624,0
+1427294414,1996-04-21,-48.879,171.3485,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,368853,0
+1830010042,1996-06-19,,,Viet Nam,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,b3c6443e-f81d-11e6-b0f6-70e2840fc270,0
+864587523,1996-09-19,,,United States of America,Coronado: US Naval Special Warfare Center,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,FishBase:Occurrence:SIO 96- 82,0
+1423549472,1996-09-19,32.667,-117.233667,United States of America,USA | California | No Pacific Ocean | San Diego Co.: Coronado: US Naval Special Warfare Center; on beach,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=6925237e-41c8-48cd-96ed-69463d9b4ac3,6925237e-41c8-48cd-96ed-69463d9b4ac3,0
+1427296261,1996-09-24,-41.5977,174.979,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,370681,0
+1427296283,1996-09-26,-43.0177,174.6917,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,370695,0
+1427296331,1996-09-26,-43.0198,175.2092,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,370721,0
+1427279203,1995-01-21,-43.1888,174.1547,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,353594,0
+624150868,1995-03-31,26.35771,-80.02673,United States of America,2 mi east of Boca Raton,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,A9D461A2-A3D0-4912-91AD-653261CA9374,0
+1427281641,1995-05-17,-37.5123,179.3643,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,356066,0
+1427285018,1995-08-12,-42.6833,-179.9633,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,359447,0
+42598445,1995-09-20,,,Namibia,off Namibia.,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,4a1bd838-eeb7-11e6-a1cf-70e2840fc270,0
+1437749050,1995-09-12,10.75,-85.7,Costa Rica,Gulf of Papagayo,MATERIAL_CITATION,"Regalecus russelii (Cuvier, 1816)",,https://treatment.plazi.org/id/8A566B093C696169FF6A9EBDB64EA054#B297D0423C696166FF6A9F2FB74CA64E,8A566B093C696169FF6A9EBDB64EA054.mc.B297D0423C696166FF6A9F2FB74CA64E,0
+1427287645,1995-10-10,-44.1598,178.0768,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,362046,0
+1427287774,1995-10-12,-44.21,178.8613,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,362207,0
+1427288685,1995-10-18,-44.5895,-175.8708,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,363090,0
+1427286743,1995-11-07,-44.3967,-178.141,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,361149,0
+1845026121,1994-04-13,-42.11666,148.26666,Australia,Muirs Beach,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,4fca7380-9e1a-43b1-85bc-c8dad046905d,0
+1427269170,1994-05-24,-42.7962,-179.6553,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,343633,0
+1100638338,1994-07-10,-35.1,150.8,Australia,"Jervis Bay, .5 km S of south head",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,049612ef-8cc0-4de1-bc5a-dd52f0a27143,0
+1100638340,1994-07-10,-35.1,150.8,Australia,"Jervis Bay, .5 km S of south head",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,ab68759b-5a0b-4827-b4bf-c948c0943c90,0
+1100638342,1994-07-10,-35.1,150.8,Australia,"Jervis Bay, .5 km S of south head",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,9a718059-0e3a-45e4-aafc-c8c66da215e3,0
+1427272371,1994-07-13,-42.8658,-175.2133,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,346777,0
+1427272957,1994-07-19,-42.7968,-176.2543,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,347374,0
+1427244161,1993-01-16,-44.0938,-177.2328,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,318640,0
+1427245480,1993-01-30,-43.089,179.1808,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,319907,0
+1427247221,1993-01-09,-43.6915,176.5177,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,321588,0
+1427247586,1993-01-12,-43.9035,179.3582,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,322022,0
+2424192481,1993-01-04,-33.7167,18.4333,South Africa,Melkbos Strand - Washed up on beach,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,urn:catalog:MB-F032802,0
+1427252189,1993-03-24,-37.8828,178.8233,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,326603,0
+1427255969,1993-10-29,-44.3968,-175.045,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,330407,0
+1427258682,1993-12-17,-49.3002,168.3893,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,333099,0
+1427223443,1992-01-17,-44.0383,175.3783,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,297863,0
+1427225231,1992-01-31,-43.8208,175.0162,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,299645,0
+1427226759,1992-01-13,-43.8868,174.8288,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,301148,0
+1427232015,1992-07-02,-43.8705,-174.5452,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,306450,0
+1427234339,1992-07-18,-42.8678,-176.0723,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,308777,0
+1427240504,1992-11-06,-44.692,-176.7763,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,314907,0
+864304189,1992-12-01,,,,PORT PHILLIP BAY AND BASS STRAIT,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,FishBase:Occurrence:AMNH 93518,0
+1427242207,1992-12-09,-46.55,166.3133,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,316634,0
+1427226320,1991-12-28,-42.9517,178.3667,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,300769,0
+2424192387,1990-01-28,-34.1167,18.3167,South Africa,Off Kommetjie beach,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,urn:catalog:MB-F031704,0
+1066008501,1990-02-07,-17.933333,118.233333,Australia,N of Port Hedland,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,08901062-5239-468d-9251-a446424b442d,0
+5009132447,1990-02-07,-17.933333,118.233333,Australia,N of Port Hedland,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,08901062-5239-468d-9251-a446424b442d,0
+43456756,1990-03-23,,,Denmark,"Denmark, 3 km S. of Vesterø, Læsø",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Natural History Museum Denmark|Ichthyology,,898075bb-73c0-415d-aabc-afb8c0a77846,0
+2424176413,1990-06-27,-34.8,20.05,South Africa,"Stranded - Struisbaai , Overberg",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,urn:catalog:MB-F031834,0
+295213476,1990-07-19,,,Japan,"Igumi Fishing Port, Setnet of Anami",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,4268445e-f8a4-11e6-be87-70e2840fc270,0
+1426985511,1990-07-08,-42.7653,-177.3003,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,59977,0
+1427044720,1990-07-31,-43.0803,169.5093,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,119122,0
+1829828384,1990-07-18,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,50a5acfa-f81d-11e6-bd1e-70e2840fc270,0
+1829977065,1990-07-19,,,Japan,,HUMAN_OBSERVATION,"Regalecus russelii (Cuvier, 1816)",,,9f5bab2e-f81d-11e6-b4ba-70e2840fc270,0
+1829828891,1990-10-03,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,50a5d73e-f81d-11e6-9757-70e2840fc270,0
+1426942408,1990-11-26,-48.5223,168.3177,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,16824,0
+1426943289,1990-12-07,-49.5045,175.241,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,17674,0
+1675592360,1989-04-14,41.349998,-59.0,Canada,slope water,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Atlantic Reference Centre,,ARC_18340,0
+1418838117,1989-05-02,24.209444,-110.505556,Mexico,"Playa El Quelele, Bahia de La Paz, Baja California Sur",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",Registros ictiofaunísticos de localidades selectas de 10 regiones marinas prioritarias del Pacífico Mexicano,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=b16a3d3188c257f499d26a398a9c6eac,b16a3d3188c257f499d26a398a9c6eac,0
+1675699918,1989-06-10,42.5,-61.5,Canada,Atlantic Ocean,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Atlantic Reference Centre,,ARC_9914736,0
+1427040139,1989-07-04,-42.3217,174.0033,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,114522,0
+1427040263,1989-07-30,-43.365,169.245,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,114710,0
+1230363538,1989-10-16,-33.033333,27.9,South Africa,"East London beach, washed up",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,27a11059-fc21-11e2-ac3f-081965b14959,0
+1418843975,1988-05-28,24.163889,-110.325,Mexico,"Frente al Hotel Ramada, Ensenada de La Paz, Baja California Sur",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",Registros ictiofaunísticos de localidades selectas de 10 regiones marinas prioritarias del Pacífico Mexicano,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=b3e975363895c05fa995d11c58468b9f,b3e975363895c05fa995d11c58468b9f,0
+1426975838,1988-09-28,-44.3183,177.5033,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,50197,0
+1426976817,1988-09-15,-42.755,178.1083,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,51252,0
+1426977693,1988-09-20,-43.1817,-174.4383,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,52118,0
+1427034240,1987-08-18,-42.615,173.66,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,108656,0
+1423535962,1986-01-24,32.500333,-121.000333,United States of America,"USA | California | No Pacific Ocean | S of San Juan Seamount,""1830 Bank""",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,http://portal.vertnet.org/o/sio/marine-vertebrates?id=93a52e06-7e78-4fec-aac2-564bf1399f40,93a52e06-7e78-4fec-aac2-564bf1399f40,0
+4417460365,1986-05-21,68.55,17.5,Norway,Bjerkvik,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",Fish Collection at UiT (Tromsø),,urn:catalog:TSZP:1623,0
+735662391,1986-09-21,34.459167,-120.026389,United States of America,North America; United States; California; Santa Barbara County; ; ; ;,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,urn:catalog:SBMNH:FH:1190,0
+1994794657,1985-02-09,-50.7233,167.065,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS Soviet Trawl Data data in New Zealand 1964-87,,urn:catalog:MPI:SovietTrawl:17181,0
+5132924314,1985-02-19,-42.7,148.416667,Australia,E of Maria Island,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,ce165520-68ec-4982-982e-68f81f747b30,0
+5133088379,1985-02-19,-42.7,148.416667,Australia,E of Maria Island,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,ce165520-68ec-4982-982e-68f81f747b30,0
+1994795306,1985-04-02,-49.58,171.4592,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS Soviet Trawl Data data in New Zealand 1964-87,,urn:catalog:MPI:SovietTrawl:17805,0
+864380139,1985-06-16,24.35,-110.316667,Mexico,"Playa El Tecolote, Bahía de La Paz, B.C.S.",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,FishBase:Occurrence:CICIMAR-IPN 1620,0
+1418843976,1985-06-16,24.358333,-110.325,Mexico,"Playa El Tecolote, Bahía de La Paz, Baja California Sur",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",Registros ictiofaunísticos de localidades selectas de 10 regiones marinas prioritarias del Pacífico Mexicano,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=9902d1b0d7b4d62ef6b1e941ee460edf,9902d1b0d7b4d62ef6b1e941ee460edf,0
+1418843990,1985-06-16,24.358333,-110.325,Mexico,"Playa El Tecolote, Bahía de La Paz, Baja California Sur",PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",Registros ictiofaunísticos de localidades selectas de 10 regiones marinas prioritarias del Pacífico Mexicano,http://www.snib.mx/snibgeoportal/Ejemplar.php?id=b3c5bcda16ac3a4e49edf1688e3f223f,b3c5bcda16ac3a4e49edf1688e3f223f,0
+4146331270,1984-02-04,-12.76,-2.8,,B. 384,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",,,SeamountsOnline_urn:lsid:marinespecies.org:taxname:126525_30108,0
+864340959,1984-11-01,43.4833,-57.55,Canada,unspecified,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,FishBase:Occurrence:ARC 9010713,0
+1427018066,1983-02-18,-41.175,168.9933,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,92494,0
+1427018473,1983-02-24,-38.4983,170.9783,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,92851,0
+1453567539,1983-08-24,-18.75,115.75,Australia,NE of Monte Bello Island,PRESERVED_SPECIMEN,Regalecidae,,,e286aa5d-329c-4d95-870b-45d4e46d59e7,0
+5009026230,1983-08-24,-18.75,115.75,Australia,NE of Monte Bello Island,PRESERVED_SPECIMEN,Regalecidae,,,e286aa5d-329c-4d95-870b-45d4e46d59e7,0
+43987977,1983-10-20,,,New Zealand,New Zealand,PRESERVED_SPECIMEN,"Regalecus Ascanius, 1772",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C43132%2C,246842ea-fb31-4d3d-94f4-7ecb30f50150,0
+1427139657,1983-10-20,-51.4667,167.595,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,214045,0
+43987974,1983-11-06,,,New Zealand,,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,https://db.kahaku.go.jp/webmuseum_en/detail?cls=col_a1_05&pkey=NSMT-P%2C43039%2C,c04130e0-534f-42d1-861c-c674b92e72f0,0
+1427138231,1983-11-06,-53.4283,171.2383,New Zealand,,HUMAN_OBSERVATION,"Regalecus glesne Ascanius, 1772",MBIS research trawl surveys,,212630,0
+864339317,1982-02-05,39.9861,-63.0011,,unspecified,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,FishBase:Occurrence:ARC 8705345,0
+2423946415,1982-02-25,33.25,-76.433296,United States of America,"At. Oc. 33° 15' N, 76° 26' W Begin, 33° 24' N, 76° 26' W End",PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",NCSM Ichthyology Collection,,257895ab-e6d7-11e9-b1ee-0643d00092e3,0
+863135862,1982-08-15,36.86,-73.895,United States of America,Center to edge of warm-core Gulf Stream ring 82B; 615-635 m,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,http://mczbase.mcz.harvard.edu/guid/MCZ:Ich:63037,MCZ:Ich:63037,0
+4521418382,1982-08-10,,,Japan,,PRESERVED_SPECIMEN,"Regalecus russelii (Cuvier, 1816)",,,cfe3463b-a47f-4e99-a403-02b499132acf,0
+1066022916,1982-11-01,,,Australia,southeastern Tasmania,PRESERVED_SPECIMEN,"Agrostichthys parkeri (Benham, 1904)",,,d299445b-056d-4b38-ba00-b8039a286e27,0
+5008931975,1982-11-01,,,Australia,southeastern Tasmania,PRESERVED_SPECIMEN,"Agrostichthys parkeri (Benham, 1904)",,,d299445b-056d-4b38-ba00-b8039a286e27,0
+1427314194,1981-01-01,-40.1167,173.4167,New Zealand,,HUMAN_OBSERVATION,"Agrostichthys parkeri (Benham, 1904)",MBIS research trawl surveys,,388650,0
+4116942376,1981-02-14,54.501667,-0.666667,United Kingdom of Great Britain and Northern Ireland,,MATERIAL_SAMPLE,"Regalecus glesne Ascanius, 1772",1743-2010 National Marine Aquarium (NMA) United Kingdom Marine Fish Recording Scheme,,DASSHDT00000002_SE_0669_126525,0
+1100594935,1981-03-19,-34.3,151.43333,Australia,NE. of Wollongong,PRESERVED_SPECIMEN,"Regalecus glesne Ascanius, 1772",,,618af0bd-d032-4359-9bb1-03f9fd0d170c,1
+3908451072,1980-02-07,-35.175,152.575,Australia,,HUMAN_OBSERVATION,Regalecidae,,,CC-SP198003-6-52623-37272000,0
+3908526509,1980-05-16,-38.23333,151.16667,Australia,,HUMAN_OBSERVATION,Regalecidae,,,CC-SP198007-14-52648-37272000,0

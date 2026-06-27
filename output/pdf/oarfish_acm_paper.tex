@@ -6,16 +6,14 @@
 \pagestyle{plain}
 
 \usepackage{booktabs}
-\usepackage{array}
 \usepackage{tabularx}
 \usepackage{graphicx}
 \usepackage{amsmath}
-\usepackage{enumitem}
 \usepackage{balance}
 
 \graphicspath{{figures/}}
 
-\title{Oarfish Sightings and Major Earthquakes: A Global Sighting-to-Earthquake Evidence Synthesis and Test Design}
+\title{Do Global M7+ Earthquakes Occur Disproportionately After Oarfish Sightings?}
 
 \author{Sho Akiyama}
 \affiliation{%
@@ -27,185 +25,139 @@
 \begin{document}
 
 \begin{abstract}
-Public accounts often claim that oarfish appearances warn of major earthquakes, but the statistical target of this claim is often ambiguous. This paper separates local biological-precursor hypotheses from the broader public claim that an oarfish sighting anywhere may be followed by a major earthquake somewhere else. For the global claim, the primary diagnostic is sighting-to-earthquake matching with no spatial radius over a 0--180 day prospective window. Shorter 0--1, 0--7, and 0--90 day windows are sensitivity checks, while local 100, 500, and 1000 km windows are secondary mechanism checks. The strongest directly relevant peer-reviewed evidence remains Orihara et al.'s multi-taxon Japanese deep-sea-fish study, whose historical local criterion was 30 days and 100 km; that criterion is not the global endpoint studied here. Under a homogeneous Poisson approximation to USGS FDSN counts from 1980-01-01 through 2026-06-27, a random date has probability about 1.000 of being followed within 180 days by at least one global $M \geq 6$ earthquake, 0.999 for $M \geq 7$, and 0.332 for $M \geq 8$. These base rates show that broad global temporal matches are expected under chance. A valid test requires audited Regalecidae sighting events, reporting-effort adjustment, predeclared endpoints, and permutation null models. Current public evidence does not support treating oarfish sightings as earthquake forecasts.
+Public claims often imply that an oarfish sighting is followed by a major earthquake, but the claim is meaningful only if post-sighting earthquake rates exceed the global background rate. This paper tests that question directly for global $M \geq 7$ earthquakes with no spatial radius. The primary endpoint asks what percentage of accepted oarfish events are followed by at least one global $M7+$ earthquake within a 0--180 day prospective window, and compares that percentage with the percentage of all eligible calendar dates that are followed by a global $M7+$ earthquake in the same window. Using GBIF-indexed Regalecidae occurrences from 1980-01-01 through 2026-06-27, 461 day-dated public occurrence records reduce to 351 deduplicated oarfish events. The USGS FDSN catalog contains 659 global $M7+$ earthquakes in the same period. For the primary 0--180 day endpoint, 343 of 343 eligible oarfish events are followed by a global $M7+$ earthquake, but the overall calendar baseline is also 100.0\%; the test is saturated and provides no evidence of excess risk. In the 0--7 day sensitivity check, 93 of 351 oarfish events are followed by a global $M7+$ earthquake, or 26.5\%, compared with a 25.8\% overall calendar baseline and a same-year permutation $p=0.509$. The observed percentages do not show a statistically meaningful global $M7+$ excess after oarfish sightings.
 \end{abstract}
 
-\keywords{oarfish, Regalecidae, earthquake precursor, global temporal matching, reporting bias, permutation test, rare events}
+\keywords{oarfish, Regalecidae, earthquake precursor, global temporal matching, M7 earthquakes, permutation test}
 
 \maketitle
 
 \section{Introduction}
 The giant oarfish and related Regalecidae are rare, conspicuous deep-sea fishes. Strandings, bycatch events, and near-surface observations often receive public attention, especially in Japan where the animal is associated with the name \emph{ryugu-no-tsukai}. Folklore and media accounts sometimes interpret such appearances as earthquake warnings. Seismological agencies, however, state that deterministic earthquake prediction with exact time, place, and magnitude is not currently possible \cite{usgs_prediction,jma_prediction}.
 
-The statistical problem is not merely whether a memorable sighting can be followed by a memorable earthquake. Major earthquakes occur often enough worldwide that broad retrospective matching can look impressive even when sightings carry no predictive information. The right test depends on the exact claim. A local biological-mechanism claim asks whether a sighting is followed by a nearby earthquake within a short window. A public global-warning claim asks whether a sighting anywhere is followed by a major earthquake somewhere, and the supplied case narrative includes examples described over intervals approaching six months. The older comparison manuscript supplied by the user used local radius bins, including a 50 km bin; the present manuscript instead makes the global six-month sighting-to-earthquake question explicit and treats local radii only as secondary analyses.
+The empirical question should be simple: after an oarfish sighting, how often does a major earthquake occur, and is that percentage higher than the overall global rate? This manuscript answers that question for global $M7+$ earthquakes. It deliberately keeps the public global-warning framing: an oarfish sighting anywhere on Earth is linked to later $M7+$ earthquakes anywhere on Earth, with no spatial radius. The confirmatory endpoint is a 0--180 day prospective window. Shorter 0--1, 0--7, and 0--90 day windows are reported only as sensitivity checks that show whether any excess appears close to the sighting date.
 
-This paper is an evidence synthesis and reproducible test design, not a completed event-level global reanalysis. It uses the supplied research findings, verifies key public data sources, and lays out the study objects, equations, null models, diagrams, and outputs needed for a rigorous 1980-01-01 to 2026-06-27 analysis.
-
-\section{Prior Evidence and Scope}
-\subsection{Direct empirical evidence}
-The strongest directly relevant empirical test is Orihara et al.'s study of Japanese folklore concerning deep-sea fish appearances and earthquakes \cite{orihara2019deepsea}. It is directly relevant but not oarfish-specific: the dataset contains 336 appearances of eight deep-sea fish taxa around Japan from November 1928 through March 2011. Under a future-looking criterion of an earthquake with $M \geq 6$ occurring within 30 days and 100 km after an appearance, only one case qualified. The study also reported fish-appearance seasonality that did not match earthquake seasonality. Thus the evidence does not support a short-term local precursor claim in that setting; it should not be overread as a Regalecidae-specific global effect estimate.
-
-\subsection{Why the global claim needs a different baseline}
-For the full target period, a USGS FDSN query from 1980-01-01 through 2026-06-27 returns 6,109 earthquakes of $M6.0$--$6.9$, 621 of $M7.0$--$7.9$, and 38 of $M8.0+$ \cite{usgs_1980_2026_query}. Since $M6+$ events occur globally every few days on average, global temporal coincidence is expected even without a biological signal. The global analysis therefore has a different purpose from local 100 km tests: it measures whether the public global-warning interpretation has any discriminating power after accounting for earthquake base rates.
-
-The current motivating example is a long-window global narrative rather than a local-nearfield one. AccuWeather, a news source that would fall in Tier 3 unless corroborated by institutional records, reported that two oarfish washed ashore and were rescued near Cabo San Lucas, Mexico, on February 20, 2026 \cite{accuweather_oarfish_2026}. A USGS FDSN query for June 1--27, 2026 returns numerous $M \geq 6$ events, including $M7.8$ 24 km SW of Kablalan, Philippines on June 7, $M6.9$ 30 km ENE of Kuji, Japan on June 24, and $M7.5$ 28 km SE plus $M7.2$ 23 km SE of Yumare, Venezuela on June 24 \cite{usgs_june2026_query}. These are real matches under a global 0--180 day rule, but the base-rate calculation below shows why such matches are expected for random dates as well.
+The distinction between an observed post-sighting percentage and an overall calendar baseline is essential. If most calendar dates are already followed by a global $M7+$ earthquake within a long window, then a high post-sighting percentage is not evidence of predictive value. The relevant comparison is therefore the probability of a global $M7+$ earthquake after an oarfish event versus the same probability after an eligible calendar date.
 
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{global_linkage_schematic.pdf}
-  \caption{Global sighting-to-earthquake linkage. The primary global diagnostic has no spatial radius and uses a 0--180 day prospective window: every qualifying earthquake worldwide is eligible after a sighting. Shorter windows and local 100, 500, and 1000 km radii are sensitivity and mechanism checks.}
-  \Description{Timeline showing an oarfish sighting and later earthquakes worldwide, with a separate local-radius inset.}
+  \caption{Global $M7+$ post-sighting linkage. The primary endpoint uses a 0--180 day prospective window and no spatial radius; every qualifying $M7+$ earthquake worldwide is eligible after a sighting.}
+  \Description{Timeline showing one oarfish sighting date and subsequent eligible global M7 plus earthquakes within a 180 day window.}
   \label{fig:global-linkage}
 \end{figure}
 
+\section{Prior Evidence}
+The strongest directly relevant peer-reviewed study is Orihara et al.'s test of Japanese folklore concerning deep-sea fish appearances and earthquakes \cite{orihara2019deepsea}. It is relevant but not oarfish-specific: the dataset contained 336 appearances of eight deep-sea fish taxa around Japan from November 1928 through March 2011. Under that historical local criterion, an earthquake with $M \geq 6$ occurring within 30 days and 100 km after an appearance, only one case qualified. The study therefore did not support a short-term local precursor claim in that setting. The present analysis asks a different question: a global, no-radius, $M7+$ temporal association after indexed Regalecidae occurrences.
+
 \section{Data}
-\subsection{Oarfish occurrence table}
-The occurrence table should be event-level, not article-level. Each candidate source record should first be retained, then deduplicated into accepted sighting events. Required fields are: \texttt{sighting\_id}, \texttt{family}, \texttt{original\_taxon}, \texttt{harmonized\_taxon}, local and UTC observation date-time, timezone source, latitude, longitude, location text, country, administrative region, source type, source title, URL or DOI, source language, observation type, specimen count, body length, sex, life stage, photograph flag, specimen repository, source reliability tier, time uncertainty, spatial uncertainty, taxonomic uncertainty, duplicate uncertainty, and notes.
+\subsection{Oarfish events}
+The oarfish dataset was built from the GBIF Occurrence API \cite{gbif_api}. The query selected family Regalecidae, GBIF taxon key 3715, from 1980-01-01 through 2026-06-27. Records were retained when GBIF supplied a parseable day-level event date and did not mark the occurrence absent. This yielded 461 public records: 177 human observations, 219 preserved specimens, 55 material samples, 8 occurrence records, and 2 material citations.
 
-Taxonomic harmonization should begin at family level, Regalecidae, then search genus and species terms including \emph{Regalecus}, \emph{Agrostichthys}, \emph{R. glesne}, \emph{R. russellii}, and known spelling variants or synonyms. WoRMS records for Regalecidae, \emph{Regalecus}, \emph{R. glesne}, \emph{R. russellii}, \emph{Regalecus russelii}, and \emph{Agrostichthys parkeri} should be logged when used \cite{worms_regalecus}. Species-level analyses should be secondary and limited to high-confidence identifications.
+Because the question is event-level rather than article-level or specimen-row-level, records were deduplicated before analysis. Records within three days and 10 km were treated as the same oarfish event; records without coordinates were deduplicated only on exact date, country, and locality text. The resulting analysis table contains 351 accepted oarfish events. This dataset is not every oarfish sighting ever reported; it is a reproducible public-indexed occurrence dataset, and that limitation is part of the interpretation.
 
-\begin{table}[t]
-\caption{Source reliability tiers for the occurrence table.}
-\label{tab:tiers}
-\centering
-\begin{tabularx}{\linewidth}{cXl}
-\toprule
-Tier & Evidence standard & Main use \\
-\midrule
-1 & Specimen record, DOI-linked paper, or institutional record with repository ID or photograph. & Primary \\
-2 & Government, museum, aquarium, or university report with date and location. & Primary \\
-3 & Citizen-science record or news report with image, date, and location. & Sensitivity flag \\
-4 & News or social-media report missing one key field but independently corroborated. & Sensitivity only \\
-5 & Unsourced repost, vague location, or unresolved taxon/date conflict. & Exclude \\
-\bottomrule
-\end{tabularx}
-\end{table}
-
-\subsection{Earthquake catalog}
-Earthquake records should be acquired from official services: USGS FDSN Event Web Service \cite{usgs_fdsn}, ISC Bulletin and ISC-GEM \cite{isc_webservices,storchak2013iscgem}, EMSC FDSN services \cite{emsc_fdsn}, and JMA for Japanese-region checks. Required fields are earthquake identifier, UTC origin time, latitude, longitude, depth, magnitude value, magnitude type, catalog source, source event ID, review status, uncertainty fields, preferred-event flag, and place description. The final analysis should use one preferred event per earthquake after cross-catalog deduplication.
-
-\section{Preprocessing Pipeline}
-Figure~\ref{fig:pipeline} summarizes the end-to-end workflow. The pipeline separates raw sources, harmonized records, accepted events, linkage tables, and inferential outputs so that every exclusion and merge decision can be audited.
+\subsection{Earthquakes}
+Earthquake records were acquired from the USGS FDSN Event Web Service \cite{usgs_fdsn,usgs_m7_1980_2026_query}. The query selected global earthquakes with magnitude $M \geq 7$ from 1980-01-01 through 2026-06-27 and returned 659 events. The analysis uses the USGS preferred event rows and day-level UTC origin dates.
 
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{pipeline_diagram.pdf}
-  \caption{Reproducible pipeline for the 1980--2026 global sighting-to-earthquake study.}
-  \Description{Flow diagram from sighting sources through harmonization, earthquake catalog, linkage, null models, and inference.}
+  \caption{Implemented analysis pipeline. GBIF Regalecidae records are converted to deduplicated oarfish events, linked prospectively to USGS global $M7+$ earthquakes, and compared with calendar and same-year permutation baselines.}
+  \Description{Flow diagram from GBIF records and USGS earthquake records through deduplication, linkage, null model generation, and observed versus baseline percentages.}
   \label{fig:pipeline}
 \end{figure}
 
-Time standardization should preserve uncertainty: day-only records receive a noon local placeholder plus \texttt{day\_only}; month-only records receive a midpoint placeholder plus \texttt{month\_only}; and geocoded place names retain original text plus spatial uncertainty. Deduplication should flag candidate duplicate reports sharing family, date within three days, distance within 10 km, similar body length, or identical source chains. Parent records should be chosen by reliability tier, while child reports remain in provenance.
-
 \section{Methods}
-\subsection{Global matching endpoint}
-For a sighting $i$ on date $t_i$, the global prospective hit indicator for magnitude threshold $M$ and window $w$ is
+\subsection{Observed post-sighting percentage}
+For accepted oarfish event $i$ on day $t_i$ and prospective window $w$, the global hit indicator is
 \begin{equation}
-H_i^{global}(M,w) =
-\mathbb{1}\{\exists j: m_j \geq M,\ 0 \leq t_j - t_i \leq w\},
+H_i(w) =
+\mathbb{1}\{\exists j: m_j \geq 7,\ 0 \leq t_j - t_i \leq w\},
 \end{equation}
-where earthquake $j$ may occur anywhere on Earth. The global hit count is $H^{global}=\sum_i H_i^{global}$. The predeclared confirmatory global endpoint should be $w=180$ days, matching the supplied claim structure in which relevant cases may fall within roughly six months. Shorter windows, $w \in \{1,7,90\}$ days, should be reported as sensitivity checks that show whether any association is concentrated near the sighting date or merely accumulates because the window is long. A 365-day window can be retained only as an exploratory saturation diagnostic.
+where earthquake $j$ may occur anywhere on Earth. The observed post-sighting percentage is
+\begin{equation}
+\widehat{P}_{oarfish}(w) = \frac{1}{N_w}\sum_{i=1}^{N_w} H_i(w),
+\end{equation}
+where $N_w$ excludes right-censored oarfish events too close to 2026-06-27 to observe the full window.
 
-\subsection{Local sensitivity endpoints}
-For mechanism-oriented checks, local distance-constrained indicators are
+\subsection{Overall calendar percentage}
+The overall comparison uses the same endpoint on every eligible calendar date $d$ in the study period:
 \begin{equation}
-H_i^{local}(M,w,R) =
-\mathbb{1}\{\exists j: m_j \geq M,\ 0 \leq t_j - t_i \leq w,\ d(i,j) \leq R\},
+C_d(w) =
+\mathbb{1}\{\exists j: m_j \geq 7,\ 0 \leq t_j - d \leq w\}.
 \end{equation}
-with $R \in \{100, 500, 1000\}$ km. A 50 km radius is not used as a primary bin here because the present question is global sighting-to-global earthquake association and because many public sighting records have geocoding uncertainty on the order of tens of kilometers. If exact-GPS Tier 1 records are analyzed separately, smaller radii can be reported as exploratory.
+The overall global baseline is
+\begin{equation}
+\widehat{P}_{calendar}(w) = \frac{1}{D_w}\sum_{d=1}^{D_w} C_d(w),
+\end{equation}
+where $D_w$ excludes right-censored calendar dates at the end of the study period. The rate ratio is $\widehat{P}_{oarfish}(w) / \widehat{P}_{calendar}(w)$.
 
-\subsection{Null models}
-Permutation tests should preserve the structure that produced the sighting dataset. In the global analysis, dates can be shuffled within reporting era, month or season, and source-reliability stratum while retaining the number of sightings. In local analyses, control dates should inherit each sighting's exact location and spatial uncertainty, or be matched within fine seismic-hazard strata with balance diagnostics for tectonic province, distance to plate boundary, and historical local earthquake rate. The upper-tailed empirical $p$-value is
+\subsection{Significance test}
+The main uncertainty check is a same-year permutation test. For each window, every eligible oarfish date is replaced by a random eligible control date from the same calendar year, preserving the strong time trend in GBIF reporting effort. The statistic is the number of oarfish events followed by at least one global $M7+$ earthquake. The upper-tailed empirical $p$-value is
 \begin{equation}
-p = \frac{1 + |\{b: H^{(b)} \geq H^{obs}\}|}{B + 1}.
+p = \frac{1 + |\{b: H^{(b)} \geq H^{obs}\}|}{B + 1},
 \end{equation}
+with $B=10{,}000$ permutations.
 
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{null_model_schematic.pdf}
-  \caption{Permutation null model. Observed hit counts are compared with date-shuffled or stratum-preserving replicates.}
-  \Description{Diagram showing observed sightings, control generation, comparison to a null distribution, and empirical p-value formula.}
+  \caption{Calendar-matched null model. Observed post-sighting hit percentages are compared with same-year randomized control dates to test whether oarfish dates have unusually high global $M7+$ follow-on rates.}
+  \Description{Diagram showing observed oarfish dates, same-year control dates, null hit percentages, and the empirical p-value formula.}
   \label{fig:null}
 \end{figure}
 
-\section{Baseline Calculations}
-The following base-rate calculations use the USGS FDSN $M \geq 6$ event query for 1980-01-01 through 2026-06-27, matching the study period used in this manuscript \cite{usgs_1980_2026_query}. Under a homogeneous Poisson approximation, the probability that a random date is followed within $w$ days by at least one global earthquake is
-\begin{equation}
-P(\geq 1) = 1 - \exp(-\lambda w),
-\end{equation}
-and the retrospective symmetric analogue uses $2w$. Because earthquakes cluster through aftershock sequences, a completed study should recompute these probabilities empirically from raw and declustered catalogs.
+\section{Results}
+Table~\ref{tab:empirical} gives the direct answer. The primary 0--180 day endpoint is saturated: 343 of 343 eligible oarfish events, or 100.0\%, were followed by at least one global $M7+$ earthquake, but 100.0\% of eligible calendar dates were also followed by at least one global $M7+$ earthquake. This endpoint therefore has no discriminating power for the global no-radius claim in this period.
 
 \begin{table}[t]
-\caption{Approximate global no-distance prospective coincidence probabilities from USGS FDSN counts, 1980-01-01 through 2026-06-27.}
-\label{tab:baseline}
+\caption{Observed post-oarfish global $M7+$ percentages compared with the overall global calendar baseline. The primary endpoint is 0--180 days; shorter windows are sensitivity checks.}
+\label{tab:empirical}
 \centering
-\begin{tabular}{lccc}
-\toprule
-Window & $M6+$ & $M7+$ & $M8+$ \\
-\midrule
-0--1 day & 0.329 & 0.038 & 0.002 \\
-0--7 days & 0.939 & 0.238 & 0.016 \\
-0--90 days & 1.000 & 0.970 & 0.182 \\
-0--180 days & 1.000 & 0.999 & 0.332 \\
-\bottomrule
-\end{tabular}
+\input{tables/m7_empirical_results.tex}
 \end{table}
+
+Shorter windows are more informative because the overall calendar baseline is not saturated. In the 0--7 day sensitivity check, 93 of 351 oarfish events were followed by a global $M7+$ earthquake, or 26.5\%. The corresponding overall calendar percentage was 25.8\%, producing a ratio of 1.03 and a same-year permutation $p=0.509$. The 0--1 day result was 6.8\% after oarfish events versus a 7.2\% calendar baseline, with permutation $p=0.722$. The 0--90 day result was 94.6\% after oarfish events versus a 96.0\% calendar baseline, with permutation $p=0.970$.
 
 \begin{figure}[t]
   \centering
-  \includegraphics[width=\linewidth]{baseline_heatmap.pdf}
-  \caption{Global no-distance earthquake coincidence probability by prospective window and magnitude threshold. A six-month global endpoint is saturated for $M6+$ and nearly saturated for $M7+$ even before considering reporting bias.}
-  \Description{Heatmap for prospective temporal windows, showing high probabilities for M6 plus and M7 plus over long global windows.}
-  \label{fig:heatmap}
+  \includegraphics[width=\linewidth]{m7_observed_vs_overall.pdf}
+  \caption{Observed post-oarfish percentages versus the overall calendar baseline for global $M7+$ earthquakes. The post-sighting percentages closely track the global calendar baseline rather than showing an excess after oarfish events.}
+  \Description{Bar chart comparing observed post-oarfish hit percentages and overall calendar-date hit percentages across 0-1, 0-7, 0-90, and 0-180 day windows.}
+  \label{fig:observed-baseline}
 \end{figure}
 
-Table~\ref{tab:baseline} and Figure~\ref{fig:heatmap} are diagnostic base-rate calculations, not inferential $p$-values. They explain why a global ``an oarfish appeared, then a large earthquake happened somewhere within six months'' story is weak evidence unless it beats a carefully matched null. Without spatial restriction, $M6+$ and $M7+$ earthquakes are common enough that six-month positive matches are expected even under randomness; the six-month endpoint is most informative only when paired with stricter magnitude thresholds, audited sighting dates, and permutation controls.
-
-\section{Planned Outputs}
-A completed global reanalysis should publish the following study tables: (i) source comparison, (ii) accepted sightings by year, country, ocean basin, and reliability tier, (iii) excluded and duplicate records, (iv) earthquake counts by year and magnitude bin, (v) global hit counts by window and threshold, (vi) local sensitivity hit counts by window, threshold, and radius, (vii) permutation null summaries, and (viii) power and saturation diagnostics.
-
-\begin{table}[t]
-\caption{Predeclared analysis grid. Global no-radius endpoints answer the public global claim; local radii are secondary.}
-\label{tab:grid}
-\centering
-\begin{tabularx}{\linewidth}{lX}
-\toprule
-Dimension & Levels \\
-\midrule
-Magnitude & $M \geq 6$, $M \geq 7$, $M \geq 8$ \\
-Confirmatory global window & 0--180 days, no spatial radius \\
-Global sensitivity windows & 0--1, 0--7, and 0--90 days; 0--365 days as saturation diagnostic only \\
-Local radii & 100, 500, 1000 km sensitivity checks \\
-Retrospective windows & $\pm 1$, $\pm 7$, $\pm 90$, and $\pm 180$ coincidence diagnostics \\
-Primary record set & Reliability Tier 1--2 accepted Regalecidae events \\
-Sensitivity record sets & Tier 1--3; species-confirmed only; Japan-only; post-2010 only \\
-\bottomrule
-\end{tabularx}
-\end{table}
+\begin{figure}[t]
+  \centering
+  \includegraphics[width=\linewidth]{permutation_null_7d.pdf}
+  \caption{Seven-day sensitivity check. The observed count of 93 oarfish events followed by a global $M7+$ earthquake is near the same-year permutation null mean and is not statistically unusual.}
+  \Description{Histogram of same-year permutation hit counts for the 0-7 day window, with observed count and null mean marked.}
+  \label{fig:perm7}
+\end{figure}
 
 \section{Bias and Validity}
-Figure~\ref{fig:bias} shows the main non-seismic pathways that can create apparent association. Oceanographic conditions, fishing effort, beach access, media attention, and citizen-science adoption all affect whether an oarfish event becomes an observed report. These factors can also change abruptly by era and region. Raw annual counts should therefore not be interpreted as biological rates without reporting-effort adjustment.
+The analysis is reproducible, but it is not immune to occurrence-data bias. GBIF records mix human observations, specimens, material samples, occurrence rows, and citations. Reporting effort changes over time, and modern citizen-science records are not sampled like older museum specimens. Deduplication also cannot perfectly distinguish two nearby oarfish from two reports of the same fish.
 
 \begin{figure}[t]
   \centering
   \includegraphics[width=\linewidth]{bias_dag.pdf}
-  \caption{Bias structure. Reporting effort and observation opportunity can create apparent sighting patterns independent of earthquake occurrence.}
-  \Description{Directed diagram linking ocean conditions, fishing access, media and citizen science, observed reports, earthquake occurrence, and claimed association.}
+  \caption{Observation and reporting pathways. Oceanographic conditions, fishing effort, beach access, and citizen-science adoption affect whether an oarfish event enters an indexed occurrence database.}
+  \Description{Directed diagram linking oceanography, fishing access, media and citizen science, indexed oarfish events, earthquake occurrence, and observed association.}
   \label{fig:bias}
 \end{figure}
 
-The chief limitations are source incompleteness, taxonomic ambiguity, time and geocoding uncertainty, catalog clustering, and multiplicity. One confirmatory endpoint should be declared before fitting models; the exploratory grid should report false-discovery-rate adjusted values and max-statistic permutation checks.
+These limitations do not explain away a positive result, because the analysis did not find one. They matter because a stronger future claim would need a fuller audited occurrence table, source-tier review, and sensitivity analyses by data source. The global no-radius endpoint also remains scientifically weak for mechanism inference: if an earthquake anywhere on Earth counts, then a high match percentage can occur even when sightings carry no predictive information.
 
 \section{Discussion}
-The best existing direct evidence is negative for a local short-term precursor claim in the Japanese multi-taxon setting \cite{orihara2019deepsea}. The global six-month claim is different, but it is not easier to defend: global earthquake occurrence is frequent enough that long-window temporal matches are expected by chance. A positive future result would need to show excess hit counts over matched controls, survive reporting-effort adjustment, and replicate across source-reliability strata.
+For the public global-warning claim, the observed percentages are not meaningfully higher after oarfish sightings than after ordinary calendar dates. The primary 0--180 day endpoint is 100.0\% after oarfish events and 100.0\% overall, so it cannot support a forecasting interpretation. The shorter windows tell the same story without saturation: the observed 0--7 day percentage is 26.5\%, close to the 25.8\% overall baseline and well inside the same-year null distribution.
 
-The most useful next step is not to collect more anecdotes but to build the auditable master table. The analysis should separate three questions: global public-warning coincidence, local mechanism-oriented linkage, and descriptive ecology of rare oarfish appearances. Mixing these questions makes the result look stronger than it is.
+The practical conclusion is that a global $M7+$ earthquake after an oarfish sighting is not surprising unless the post-sighting rate exceeds the global background rate. In this reproducible GBIF-USGS analysis, it does not. The result does not rule out every possible local biological hypothesis, but it does reject the broad global temporal claim as stated here.
 
 \section{Conclusion}
-Current public evidence does not support using oarfish sightings as earthquake forecasts. For the global sighting-to-earthquake claim, the baseline probability of a worldwide $M6+$ or $M7+$ earthquake within six months is already extremely high. For local precursor claims, the strongest peer-reviewed proxy evidence does not support a short-term signal. A defensible 1980--2026 study requires audited Regalecidae events, official earthquake catalogs, an explicit 0--180 day global endpoint, shorter-window sensitivity checks, secondary local endpoints, source reliability tiers, covariate adjustment, and permutation null models.
+Using public GBIF Regalecidae occurrence records and the USGS global $M7+$ earthquake catalog from 1980-01-01 through 2026-06-27, oarfish sightings do not show a statistically meaningful excess of following global $M7+$ earthquakes. The answer to the paper's core question is therefore no: in this dataset, major earthquakes are not disproportionately likely after oarfish sightings compared with the overall global calendar baseline.
 
 \begin{acks}
-This manuscript benefited from public documentation for earthquake and biodiversity data services and two rounds of independent research-panel review. Remaining event-level claims should be resolved against original source records before hazard-related use.
+This manuscript uses public biodiversity and earthquake data services. Event-level conclusions should be revisited if a fuller audited oarfish occurrence table becomes available.
 \end{acks}
 
 \balance

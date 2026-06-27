@@ -1,0 +1,86 @@
+{
+  "study_start": "1980-01-01",
+  "study_end": "2026-06-27",
+  "gbif_taxon_key": 3715,
+  "raw_gbif_records": 461,
+  "accepted_oarfish_events": 351,
+  "basis_counts_raw": {
+    "HUMAN_OBSERVATION": 177,
+    "MATERIAL_SAMPLE": 55,
+    "PRESERVED_SPECIMEN": 219,
+    "MATERIAL_CITATION": 2,
+    "OCCURRENCE": 8
+  },
+  "basis_counts_events": {
+    "HUMAN_OBSERVATION": 165,
+    "MATERIAL_SAMPLE": 32,
+    "PRESERVED_SPECIMEN": 147,
+    "MATERIAL_CITATION": 2,
+    "OCCURRENCE": 5
+  },
+  "usgs_m7plus_events": 659,
+  "windows": [
+    {
+      "window": 1,
+      "eligible_sightings": 351,
+      "observed_hits": 24,
+      "observed_pct": 0.06837606837606838,
+      "calendar_hit_days": 1221,
+      "calendar_total_days": 16979,
+      "baseline_pct": 0.07191236232993697,
+      "expected_hits": 25.241239177807877,
+      "binomial_p": 0.6306728873142972,
+      "perm_p": 0.7222277772222778,
+      "perm_mean": 26.5166,
+      "perm_lo": 17,
+      "perm_hi": 36
+    },
+    {
+      "window": 7,
+      "eligible_sightings": 351,
+      "observed_hits": 93,
+      "observed_pct": 0.26495726495726496,
+      "calendar_hit_days": 4373,
+      "calendar_total_days": 16973,
+      "baseline_pct": 0.2576444941966653,
+      "expected_hits": 90.43321746302952,
+      "binomial_p": 0.3968848899860643,
+      "perm_p": 0.5090490950904909,
+      "perm_mean": 92.7472,
+      "perm_lo": 77,
+      "perm_hi": 109
+    },
+    {
+      "window": 90,
+      "eligible_sightings": 350,
+      "observed_hits": 331,
+      "observed_pct": 0.9457142857142857,
+      "calendar_hit_days": 16215,
+      "calendar_total_days": 16890,
+      "baseline_pct": 0.9600355239786856,
+      "expected_hits": 336.01243339253995,
+      "binomial_p": 0.9281368396627426,
+      "perm_p": 0.97000299970003,
+      "perm_mean": 337.0449,
+      "perm_lo": 330,
+      "perm_hi": 343
+    },
+    {
+      "window": 180,
+      "eligible_sightings": 343,
+      "observed_hits": 343,
+      "observed_pct": 1.0,
+      "calendar_hit_days": 16800,
+      "calendar_total_days": 16800,
+      "baseline_pct": 1.0,
+      "expected_hits": 343.0,
+      "binomial_p": 1.0,
+      "perm_p": 1.0,
+      "perm_mean": 343.0,
+      "perm_lo": 343,
+      "perm_hi": 343
+    }
+  ],
+  "permutations": 10000,
+  "random_seed": 20260627
+}
